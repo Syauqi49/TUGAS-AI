@@ -1,0 +1,378 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-10-06T20:15:28.163Z,-8.4893,116.1796,144.082,4.6,mb,98,58,4.95,1.03,us,us6000u0km,2026-10-15T16:29:06.286Z,"12 km NNE of Mataram, Indonesia",earthquake,10.64,5.308,0.065,70,reviewed,us,us
+2026-09-20T17:51:33.268Z,-9.3228,115.7528,79.43,4.4,mb,32,78,5.836,0.8,us,us7000tisi,2026-09-26T16:21:02.040Z,"74 km SSW of Lembar, Indonesia",earthquake,11.93,2.203,0.107,25,reviewed,us,us
+2026-08-13T10:23:19.249Z,-8.3804,114.2559,142.427,4.6,mb,53,32,0.136,0.87,us,us6000tkg4,2026-09-08T11:49:52.684Z,"2 km NNW of Srono, Indonesia",earthquake,8.7,3.982,0.095,40,reviewed,us,us
+2026-07-13T12:06:25.722Z,-8.176,114.8543,10,4.1,mb,19,148,0.754,0.68,us,us7000t1d2,2026-09-29T22:05:34.040Z,"9 km WNW of Seririt, Indonesia",earthquake,7.57,1.921,0.134,15,reviewed,us,us
+2026-04-22T21:34:45.347Z,-8.3795,115.0271,10,4,mb,11,133,0.87,0.59,us,us7000si0s,2026-07-03T01:39:25.040Z,"13 km SSW of Munduk, Indonesia",earthquake,7.68,1.944,0.26,5,reviewed,us,us
+2026-03-01T03:52:50.408Z,-8.9817,115.5235,100.607,4.5,mb,46,63,1.448,0.83,us,us7000s15z,2026-05-15T22:02:34.040Z,"37 km ESE of Nusa Dua, Indonesia",earthquake,7.26,5.584,0.094,37,reviewed,us,us
+2026-02-01T13:29:10.202Z,-8.5484,115.6717,9.828,3.9,mb,10,184,1.505,0.61,us,us6000s9gd,2026-04-23T20:43:24.040Z,"12 km SSE of Amlapura, Indonesia",earthquake,10.28,5.32,0.363,2,reviewed,us,us
+2026-01-10T09:34:05.860Z,-9.2276,114.741,88.17,4.4,mb,22,125,0.951,0.84,us,us7000rnv6,2026-04-10T15:20:43.040Z,"66 km SW of Jimbaran, Indonesia",earthquake,4.89,8.486,0.144,14,reviewed,us,us
+2025-12-05T11:02:08.757Z,-7.8828,115.5396,215.017,4.4,mb,28,88,1.492,0.99,us,us7000rk3d,2026-03-04T18:44:37.040Z,"55 km ENE of Singaraja, Indonesia",earthquake,9.69,8.164,0.118,21,reviewed,us,us
+2025-11-26T09:49:15.204Z,-9.3565,114.4401,50.95,4,mb,13,149,0.926,1.03,us,us6000rugz,2026-02-25T16:18:32.040Z,"100 km SW of Jimbaran, Indonesia",earthquake,8.19,10.778,0.212,7,reviewed,us,us
+2025-10-18T15:57:01.185Z,-7.8505,114.7684,197.719,4.4,mb,72,35,0.867,0.74,us,us6000ri1l,2026-01-09T15:38:40.040Z,"42 km NNW of Seririt, Indonesia",earthquake,7.71,5.922,0.07,60,reviewed,us,us
+2025-09-25T09:04:11.319Z,-7.8439,114.4692,10,5.2,mww,78,40,0.697,1.08,us,us6000rcry,2025-12-11T21:40:37.040Z,"17 km NNE of Wongsorejo, Indonesia",earthquake,5.53,1.753,0.062,25,reviewed,us,us
+2025-09-19T20:10:32.422Z,-8.113,115.3605,203.42,4,mb,17,77,1.248,0.69,us,us6000rgd6,2025-12-06T16:00:13.040Z,"30 km E of Singaraja, Indonesia",earthquake,8.14,8.529,0.156,12,reviewed,us,us
+2025-09-10T21:50:42.185Z,-8.0333,115.4914,224.615,4.4,mb,34,73,1.395,0.67,us,us7000qvch,2025-12-03T03:57:56.040Z,"45 km E of Singaraja, Indonesia",earthquake,8.8,6.856,0.105,26,reviewed,us,us
+2025-08-18T02:14:53.261Z,-7.8586,114.0251,10,4.3,mb,16,123,0.62,1.38,us,us7000qvhb,2025-11-04T16:44:22.040Z,"16 km SSW of Panji, Indonesia",earthquake,5.96,1.921,0.154,12,reviewed,us,us
+2025-07-15T08:35:53.027Z,-8.3553,116.017,10,4.5,mb,48,50,1.802,0.72,us,us7000qcsg,2025-11-28T21:19:19.757Z,"2 km WSW of Gili Trawangan, Indonesia",earthquake,6.58,1.806,0.108,25,reviewed,us,us
+2025-03-19T13:17:46.069Z,-8.307,115.1168,161.867,4.7,mb,33,75,0.968,0.54,us,us6000pzr5,2025-05-29T17:36:24.040Z,"5 km SE of Munduk, Indonesia",earthquake,10.48,6.767,0.106,27,reviewed,us,us
+2025-01-08T15:59:35.503Z,-9.4486,115.5021,76.416,4,mb,19,103,1.651,1.13,us,us6000pil9,2025-03-20T20:54:49.040Z,"77 km SSE of Nusa Dua, Indonesia",earthquake,7.35,7.26,0.15,12,reviewed,us,us
+2025-01-08T02:14:18.181Z,-8.7927,115.4075,116.888,4.3,mb,28,56,1.282,0.76,us,us6000piic,2025-03-20T20:54:45.040Z,"19 km E of Nusa Dua, Indonesia",earthquake,7.33,6.27,0.129,17,reviewed,us,us
+2024-11-29T04:49:41.403Z,-8.924,114.5842,93.925,4.3,mb,20,96,0.621,1.04,us,us7000nuvg,2025-02-02T00:53:26.040Z,"60 km SSE of Muncar, Indonesia",earthquake,8.49,7.088,0.138,15,reviewed,us,us
+2024-10-28T02:21:51.431Z,-9.0161,114.914,92.696,4.3,mb,24,103,0.928,0.91,us,us7000nnjw,2025-01-16T18:44:03.040Z,"36 km SW of Jimbaran, Indonesia",earthquake,9.12,7.568,0.142,14,reviewed,us,us
+2024-10-23T09:12:48.856Z,-9.0827,114.0712,84.237,4.4,mb,25,87,0.614,0.76,us,us7000nmkv,2025-01-04T23:07:41.040Z,"76 km S of Gambiran Satu, Indonesia",earthquake,7.32,7.011,0.13,17,reviewed,us,us
+2024-09-20T23:26:16.183Z,-8.3784,115.3408,10,4.6,mb,52,39,1.18,0.57,us,us6000ntee,2024-11-23T23:26:29.040Z,"15 km NW of Banjar Wangsian, Indonesia",earthquake,7.71,1.827,0.082,45,reviewed,us,us
+2024-09-14T01:31:07.580Z,-8.8316,115.4826,115.489,4.5,mb,22,74,1.364,0.8,us,us7000ndpv,2024-11-21T22:58:57.040Z,"27 km E of Nusa Dua, Indonesia",earthquake,4.11,7.417,0.136,17,reviewed,us,us
+2024-09-07T01:51:40.107Z,-8.4371,115.3374,10,4.9,mb,50,45,1.173,0.83,us,us6000nq8g,2025-09-05T16:37:31.900Z,"11 km NE of Ubud, Indonesia",earthquake,5.46,1.868,0.077,57,reviewed,us,us
+2024-05-14T08:11:10.486Z,-8.2223,115.9724,22.776,5.3,mww,93,18,1.818,0.97,us,us6000mygm,2024-07-26T23:58:08.040Z,"15 km NNW of Gili Trawangan, Indonesia",earthquake,5.51,3.831,0.078,16,reviewed,us,us
+2024-05-07T22:09:56.125Z,-9.1457,115.8631,103.998,4.7,mb,65,42,1.819,0.72,us,us6000mx38,2024-07-20T22:20:02.040Z,"51 km SSW of Lembar, Indonesia",earthquake,7.37,5.76,0.074,55,reviewed,us,us
+2024-02-17T16:47:26.139Z,-8.2021,114.6,9.018,4.4,mb,31,74,0.517,0.86,us,us7000m0t6,2024-04-24T14:42:06.040Z,"17 km N of Negara, Indonesia",earthquake,6.38,4.523,0.12,23,reviewed,us,us
+2024-01-25T14:41:28.546Z,-8.736,115.6407,122.306,4.6,mb,46,54,1.495,0.74,us,us7000ltqu,2024-09-20T23:33:49.735Z,"31 km S of Amlapura, Indonesia",earthquake,8.16,6.878,0.092,38,reviewed,us,us
+2024-01-16T17:04:28.759Z,-7.816,116.4278,256.296,4.1,mb,28,72,1.671,1.06,us,us7000lt8n,2024-03-29T17:37:56.040Z,"70 km NNE of Gili Air, Indonesia",earthquake,10.87,8.703,0.131,16,reviewed,us,us
+2023-11-14T16:45:30.974Z,-9.2235,114.2107,67.368,4.4,mb,38,118,0.751,0.54,us,us6000lndy,2024-01-26T16:37:41.040Z,"88 km S of Muncar, Indonesia",earthquake,4.08,6.452,0.105,27,reviewed,us,us
+2023-10-30T21:44:47.393Z,-8.5457,113.8826,104.007,4.5,mb,85,23,0.277,0.67,us,us7000l7mc,2024-01-10T06:01:19.040Z,"33 km WSW of Gambiran Satu, Indonesia",earthquake,7.2,3.594,0.067,66,reviewed,us,us
+2023-09-30T20:56:36.407Z,-8.6239,114.562,112.987,4.4,mb,31,58,0.433,0.8,us,us6000ld72,2023-12-09T22:00:43.040Z,"30 km SSW of Negara, Indonesia",earthquake,8.26,5.339,0.13,17,reviewed,us,us
+2023-08-29T20:04:55.314Z,-9.2284,114.9909,89.461,4,mb,15,106,1.12,0.91,us,us7000kt78,2023-11-04T21:36:22.040Z,"51 km SSW of Jimbaran, Indonesia",earthquake,6.55,9.306,0.211,6,reviewed,us,us
+2023-08-04T18:31:48.837Z,-8.2436,116.4398,9.045,4.3,mb,37,51,1.444,0.79,us,us6000kxxq,2023-10-07T21:38:58.040Z,"37 km NW of Labuan Lombok, Indonesia",earthquake,5.6,3.852,0.119,26,reviewed,us,us
+2023-05-24T19:57:24.621Z,-9.2785,114.9566,80.202,4.6,mb,54,49,1.13,1.17,us,us7000k3l5,2023-07-29T22:00:35.040Z,"58 km SSW of Jimbaran, Indonesia",earthquake,5.02,5.169,0.092,35,reviewed,us,us
+2023-05-23T17:41:47.893Z,-7.9393,115.2242,9.578,4.5,mb,28,57,1.185,0.49,us,us7000k501,2023-07-29T22:00:45.040Z,"24 km NE of Singaraja, Indonesia",earthquake,4.6,4.484,0.128,23,reviewed,us,us
+2023-04-19T02:11:35.949Z,-7.8242,115.235,212.861,4.1,mb,16,59,1.25,0.47,us,us7000jw1v,2023-07-03T02:47:12.040Z,"35 km NNE of Singaraja, Indonesia",earthquake,9.08,5.998,0.184,8,reviewed,us,us
+2023-04-10T00:37:29.495Z,-9.5889,115.1162,58.547,5.1,mb,82,66,1.464,0.64,us,us6000k36r,2023-06-17T21:36:42.040Z,"88 km S of Nusa Dua, Indonesia",earthquake,7.5,5.825,0.096,35,reviewed,us,us
+2023-04-10T00:36:20.961Z,-9.6608,115.1234,62.275,5,mb,74,45,1.523,0.54,us,us6000k36p,2023-06-17T21:36:42.040Z,"95 km S of Nusa Dua, Indonesia",earthquake,5.14,5.629,0.08,50,reviewed,us,us
+2023-04-03T18:26:46.309Z,-8.7077,115.6479,108.067,4.4,mb,52,45,1.498,0.7,us,us6000k1ss,2023-06-13T03:13:12.040Z,"28 km S of Amlapura, Indonesia",earthquake,7.63,5.108,0.095,32,reviewed,us,us
+2023-03-31T08:28:35.619Z,-9.6154,115.1606,61.428,4.8,mb,50,42,1.512,0.73,us,us6000k12g,2023-06-03T22:06:10.040Z,"90 km S of Nusa Dua, Indonesia",earthquake,7.57,6.998,0.097,33,reviewed,us,us
+2023-03-07T21:20:09.519Z,-8.1617,116.2223,204.688,4.3,mb,41,65,1.674,0.83,us,us7000jhzu,2023-05-15T02:50:13.040Z,"26 km NE of Gili Air, Indonesia",earthquake,7.94,6.864,0.096,31,reviewed,us,us
+2023-02-18T00:03:47.263Z,-8.1979,115.8285,9.015,4.6,mb,35,72,1.681,0.63,us,us6000jpt7,2023-04-22T21:33:17.040Z,"28 km NW of Gili Trawangan, Indonesia",earthquake,5.92,3.634,0.128,18,reviewed,us,us
+2023-01-16T13:10:03.973Z,-8.9708,115.5095,101.182,4.3,mb,23,43,1.431,0.92,us,us6000jj4s,2023-03-31T19:43:10.040Z,"35 km ESE of Nusa Dua, Indonesia",earthquake,8.11,6.816,0.153,12,reviewed,us,us
+2022-12-14T07:40:16.173Z,-8.2852,115.5792,9.992,4.6,mb,19,77,1.424,0.87,us,us6000jacw,2023-02-18T22:04:19.040Z,"18 km N of Amlapura city, Indonesia",earthquake,7.03,5.464,0.223,6,reviewed,us,us
+2022-12-14T07:39:27.768Z,-8.1887,115.6524,9.826,4.3,mb,23,60,1.511,0.88,us,us6000j99n,2023-02-18T22:04:11.040Z,"29 km N of Amlapura, Indonesia",earthquake,6.05,4.691,0.168,10,reviewed,us,us
+2022-12-13T11:23:44.336Z,-8.2476,115.7397,10,4.6,mb,40,42,1.586,0.57,us,us6000j8z8,2023-02-18T22:04:08.040Z,"26 km NNE of Amlapura, Indonesia",earthquake,2.97,1.866,0.125,19,reviewed,us,us
+2022-12-13T10:38:21.667Z,-8.256,115.6356,10,5.2,mww,83,42,1.483,0.39,us,us6000j8z3,2023-02-18T22:04:08.040Z,"21 km N of Amlapura city, Indonesia",earthquake,4.25,1.813,0.075,17,reviewed,us,us
+2022-12-13T10:00:39.569Z,-8.2066,115.7439,10,4.4,mb,30,42,1.597,0.58,us,us6000j9rc,2023-02-18T22:04:17.040Z,"Bali region, Indonesia",earthquake,7.19,1.895,0.134,17,reviewed,us,us
+2022-12-13T09:56:39.254Z,-8.1765,115.6821,10,4.9,mb,71,42,1.542,0.43,us,us6000j8yz,2023-02-18T22:04:08.040Z,"Bali region, Indonesia",earthquake,6.28,1.848,0.086,43,reviewed,us,us
+2022-11-05T23:46:37.258Z,-8.8617,115.2222,10.166,3.9,mb,12,119,1.127,0.91,us,us7000imyj,2024-01-18T17:19:15.797Z,"6 km S of Nusa Dua, Indonesia",earthquake,4.5,6.133,0.364,2,reviewed,us,us
+2022-09-24T20:32:30.096Z,-9.3953,114.3631,74.072,4.9,mb,107,38,0.943,0.75,us,us7000iat5,2022-12-03T22:03:21.040Z,"106 km S of Muncar, Indonesia",earthquake,7.1,4.836,0.062,83,reviewed,us,us
+2022-09-12T09:57:15.674Z,-8.1152,115.0555,178.1,4.4,mb,53,49,0.961,0.82,us,us7000i7ce,2022-11-19T23:02:46.040Z,"3 km W of Singaraja, Indonesia",earthquake,6.02,5.768,0.097,31,reviewed,us,us
+2022-08-22T08:36:32.698Z,-8.9212,115.696,128,5.4,mww,144,42,1.591,0.87,us,us6000icp4,2026-01-10T09:49:53.269Z,"Bali region, Indonesia",earthquake,8.48,1.89,0.059,28,reviewed,us,us
+2022-07-29T11:57:44.473Z,-8.1625,115.5482,10,4.4,mb,35,58,1.415,0.6,us,us6000i6g0,2022-10-01T22:09:29.040Z,"32 km N of Bedugul, Indonesia",earthquake,6.02,1.879,0.108,25,reviewed,us,us
+2022-06-26T12:25:34.033Z,-8.6819,115.2802,113.94,4.3,mb,30,75,1.135,0.58,us,us7000hkde,2022-09-03T21:03:40.040Z,"7 km ESE of Denpasar, Indonesia",earthquake,6.4,7.2,0.147,14,reviewed,us,us
+2022-06-05T21:41:23.691Z,-7.746,115.7726,211.37,4.4,mb,21,112,1.758,0.69,us,us7000hg8p,2022-08-13T21:53:15.040Z,"Bali Sea",earthquake,7.9,10.4,0.169,10,reviewed,us,us
+2022-04-09T09:41:04.610Z,-8.6323,114.7912,101.14,4.6,mb,,53,0.652,0.58,us,us7000h0vq,2022-06-20T22:07:33.040Z,"35 km SSE of Negara, Indonesia",earthquake,7.2,4.6,0.089,44,reviewed,us,us
+2022-04-05T08:15:41.033Z,-7.5594,115.5809,314.03,4.1,mb,,53,1.679,0.84,us,us7000h0qg,2022-06-11T20:21:16.040Z,"81 km NE of Singaraja, Indonesia",earthquake,6.1,8.6,0.233,6,reviewed,us,us
+2022-01-24T21:14:12.274Z,-8.5292,116.0647,10,4.4,mb,,76,1.718,1.08,us,us7000ggrb,2022-04-09T20:18:59.040Z,"4 km SSE of Senggigi, Indonesia",earthquake,4.6,1.9,0.179,9,reviewed,us,us
+2021-12-19T15:49:54.974Z,-8.2921,116.3775,11.86,4.6,mb,,99,2.209,0.95,us,us6000gelm,2022-03-01T16:37:58.040Z,"32 km ENE of Pemenang, Indonesia",earthquake,7.8,5.5,0.151,16,reviewed,us,us
+2021-10-15T22:38:34.460Z,-7.6738,115.354,286.78,4.3,mb,,56,1.429,0.94,us,us6000fv1s,2021-12-25T22:58:36.040Z,"56 km NNE of Singaraja, Indonesia",earthquake,7.3,2.2,0.104,26,reviewed,us,us
+2021-10-15T20:18:21.008Z,-8.3283,115.4645,10,4.7,mww,,25,1.306,0.99,us,us6000fv0u,2021-12-25T22:58:36.040Z,"18 km NNE of Banjar Wangsian, Indonesia",earthquake,5.6,1.7,0.098,10,reviewed,us,us
+2021-06-01T13:53:47.565Z,-8.1615,114.721,191.14,4.3,mb,,42,0.641,0.72,us,us6000egml,2021-08-07T22:06:58.040Z,"24 km W of Seririt, Indonesia",earthquake,8,5,0.129,19,reviewed,us,us
+2021-04-29T22:20:16.938Z,-9.1859,114.127,67.55,4.6,mb,,52,0.711,0.84,us,us7000dys7,2021-07-07T18:38:18.040Z,"86 km SSW of Muncar, Indonesia",earthquake,8.5,7.4,0.114,23,reviewed,us,us
+2021-03-01T13:46:47.081Z,-8.6363,114.5154,101.74,4.3,mb,,97,0.395,0.49,us,us7000dg09,2021-05-13T22:39:24.040Z,"30 km SE of Muncar, Indonesia",earthquake,10.4,4.5,0.147,13,reviewed,us,us
+2021-02-23T14:09:09.730Z,-9.3972,115.5374,80.22,4.6,mb,,98,1.649,0.58,us,us7000ddy6,2021-05-04T14:16:35.040Z,"73 km SSE of Nusa Dua, Indonesia",earthquake,8,10.6,0.315,3,reviewed,us,us
+2021-01-10T22:40:15.263Z,-8.2802,116.2107,10,4.7,mb,,46,2.045,0.92,us,us6000d7bh,2021-03-20T21:23:51.040Z,"16 km ENE of Gili Air, Indonesia",earthquake,6.2,1.8,0.13,18,reviewed,us,us
+2020-09-12T15:11:06.810Z,-8.3026,116.2496,37.43,4.3,mb,,85,2.082,0.96,us,us7000bpds,2020-11-21T20:10:46.040Z,"19 km ENE of Gili Air, Indonesia",earthquake,8.4,8.1,0.148,13,reviewed,us,us
+2020-09-04T14:42:10.566Z,-8.4084,114.4458,157.48,4,mb,,98,0.297,0.73,us,us7000bkxk,2020-11-17T19:44:35.040Z,"12 km ENE of Muncar, Indonesia",earthquake,12.3,5.4,0.164,10,reviewed,us,us
+2020-07-31T00:37:08.242Z,-9.2107,115.1245,71.82,4.2,mb,,99,1.21,0.34,us,us6000b78f,2022-08-08T23:47:59.992Z,"south of Bali, Indonesia",earthquake,6.1,8.3,0.199,7,reviewed,us,us
+2020-05-27T03:52:11.620Z,-8.2467,114.9212,10,4.3,mb,,46,0.792,0.64,us,us60009zsk,2020-08-15T20:19:35.040Z,"6 km SSW of Seririt, Indonesia",earthquake,6.4,1.9,0.109,24,reviewed,us,us
+2020-05-12T00:20:54.051Z,-8.2887,116.1761,10,4.4,mb,,75,2.01,0.98,us,us70009kuf,2020-07-29T22:14:35.040Z,"12 km NE of Gili Air, Indonesia",earthquake,3.6,1.9,0.134,16,reviewed,us,us
+2020-05-11T11:39:00.428Z,-9.4698,114.4352,38.63,4.2,mb,,106,1.031,0.6,us,us70009jqa,2020-07-29T22:14:32.040Z,"109 km SW of Jimbaran, Indonesia",earthquake,4.1,10.2,0.167,10,reviewed,us,us
+2020-05-10T22:09:56.512Z,-8.2846,115.7728,10,4,mb,,78,1.614,0.81,us,us70009gu5,2020-07-29T22:14:29.040Z,"25 km NE of Amlapura, Indonesia",earthquake,7.2,1.9,0.231,5,reviewed,us,us
+2020-05-08T10:32:45.147Z,-8.6843,114.5627,95.26,4.5,mb,,87,0.458,0.78,us,us70009g3z,2020-07-29T22:14:19.040Z,"36 km S of Negara, Indonesia",earthquake,10.8,5.4,0.118,21,reviewed,us,us
+2020-04-02T03:34:47.277Z,-9.4385,114.6801,50.18,4.3,mb,,71,1.094,0.96,us,us70008rhp,2020-06-21T00:54:37.040Z,"88 km SW of Jimbaran, Indonesia",earthquake,8,8.1,0.129,17,reviewed,us,us
+2020-03-23T22:29:15.102Z,-8.341,116.1453,29.43,4.3,mb,,55,1.976,0.78,us,us70008hfe,2020-06-06T20:54:12.040Z,"7 km ENE of Gili Air, Indonesia",earthquake,8.6,7.2,0.16,11,reviewed,us,us
+2020-03-19T18:57:47.108Z,-8.3262,116.0637,26.39,4.2,mb,,62,1.896,0.97,us,us70008gzk,2020-06-06T20:53:54.040Z,"4 km NNW of Gili Air, Indonesia",earthquake,7.5,3.6,0.125,18,reviewed,us,us
+2019-11-15T11:40:30.410Z,-8.3934,116.086,10,4.3,mb,,98,1.914,0.81,us,us60006bze,2020-02-07T20:21:27.040Z,"2 km WNW of Pemenang, Indonesia",earthquake,4.1,1.9,0.129,17,reviewed,us,us
+2019-11-14T15:10:20.253Z,-8.1672,114.9059,10,4.6,mb,,52,0.804,0.93,us,us60006bjf,2020-02-07T20:20:54.040Z,"4 km NW of Seririt, Indonesia",earthquake,5.5,1.8,0.085,41,reviewed,us,us
+2019-11-14T10:21:39.375Z,-8.1384,114.8864,10,5,mww,,26,0.798,1.47,us,us60006bg4,2025-12-22T18:21:31.291Z,"8 km NW of Seririt, Indonesia",earthquake,6.1,1.8,0.086,13,reviewed,us,us
+2019-11-14T10:10:12.416Z,-8.1944,114.8863,10,4.6,mb,,34,0.776,0.9,us,us60006bg3,2020-02-07T20:20:51.040Z,"5 km W of Seririt, Indonesia",earthquake,6.5,1.8,0.102,29,reviewed,us,us
+2019-11-14T10:09:10.352Z,-8.2426,114.913,10,4.2,mb,,71,0.786,0.92,us,us70006b2n,2020-02-07T20:20:51.040Z,"6 km SSW of Seririt, Indonesia",earthquake,7.5,1.9,0.131,16,reviewed,us,us
+2019-10-18T05:58:12.567Z,-7.9102,115.6693,249.04,4.4,mb,,62,1.601,1.06,us,us70005vaw,2020-01-03T16:09:28.040Z,"59 km N of Amlapura city, Indonesia",earthquake,8.4,7.3,0.12,20,reviewed,us,us
+2019-08-11T22:08:14.822Z,-8.7627,114.554,90.24,4.7,mb,,48,0.492,1,us,us600053tb,2019-10-29T20:34:01.040Z,"43 km SSE of Muncar, Indonesia",earthquake,8,4.6,0.063,77,reviewed,us,us
+2019-08-01T08:39:10.243Z,-8.2793,114.087,149.45,4.4,mb,,114,0.2,0.79,us,us600052tj,2019-10-19T21:42:18.040Z,"11 km NW of Genteng, Indonesia",earthquake,11.1,5.1,0.161,11,reviewed,us,us
+2019-07-28T20:23:10.452Z,-8.7333,114.5164,98.66,4.4,mb,,147,0.445,0.8,us,us60004wtx,2019-10-11T20:12:46.040Z,"38 km SSE of Muncar, Indonesia",earthquake,11.1,7.4,0.134,16,reviewed,us,us
+2019-07-24T01:29:12.731Z,-8.5946,114.3134,102.51,5,mb,,54,0.201,1.05,us,us60004ugn,2019-10-11T20:12:24.040Z,"17 km S of Muncar, Indonesia",earthquake,7.9,3.5,0.068,70,reviewed,us,us
+2019-07-19T12:33:17.757Z,-9.2465,116.2031,123.99,4.2,mb,,95,2.168,0.63,us,us60004vxn,2019-10-04T16:37:20.040Z,"59 km SSE of Lembar, Indonesia",earthquake,7.9,9.5,0.127,17,reviewed,us,us
+2019-07-16T00:18:36.961Z,-8.8208,114.487,80,5.7,mww,,19,0.48,1.42,us,us70004l29,2025-12-22T18:13:31.083Z,"46 km SSE of Muncar, Indonesia",earthquake,7.3,1.8,0.056,31,reviewed,us,us
+2019-06-18T17:14:32.287Z,-8.3299,116.1613,10,4.4,mb,,79,1.992,1.44,us,us700048e7,2019-09-11T15:19:08.040Z,"9 km ENE of Gili Air, Indonesia",earthquake,6.7,1.9,0.117,22,reviewed,us,us
+2019-05-03T06:48:02.259Z,-8.3786,116.1939,29.3,4.4,mb,,81,2.022,0.53,us,us70003kep,2019-07-25T18:54:11.040Z,"10 km ENE of Pemenang, Indonesia",earthquake,9.4,7.6,0.239,5,reviewed,us,us
+2019-04-28T23:42:56.637Z,-9.3506,116.0563,81.05,4.2,mb,,76,2.074,1.23,us,us70003dn7,2019-07-13T18:42:50.040Z,"69 km S of Lembar, Indonesia",earthquake,7.7,9.6,0.176,9,reviewed,us,us
+2019-04-03T08:32:36.870Z,-7.2651,114.5585,35,4.4,mb,,92,1.263,0.88,us,us700034hz,2019-06-18T15:50:10.040Z,"71 km NE of Panji, Indonesia",earthquake,7.8,2,0.169,10,reviewed,us,us
+2019-04-02T13:09:07.011Z,-7.2819,114.5218,24.05,4.5,mb,,64,1.236,0.77,us,us700034fd,2019-06-18T15:50:04.040Z,"67 km NE of Panji, Indonesia",earthquake,7.1,5.9,0.144,14,reviewed,us,us
+2019-04-02T01:22:47.410Z,-7.2715,114.5928,35,4.9,mww,,34,1.268,0.8,us,us2000k8y8,2020-07-10T17:27:31.559Z,"74 km NE of Panji, Indonesia",earthquake,6.1,1.9,0.083,14,reviewed,us,us
+2019-03-17T07:07:25.369Z,-8.4179,116.5208,10,5.6,mww,,41,2.343,0.83,us,us1000jhbv,2025-12-22T18:28:00.285Z,"18 km WNW of Labuan Lombok, Indonesia",earthquake,5.6,1.7,0.055,32,reviewed,us,us
+2018-12-22T23:59:49.210Z,-8.474,116.1272,10,3.8,mb,,131,1.953,0.76,us,us2000iwjz,2019-02-23T20:22:37.040Z,"8 km SSE of Pemenang, Indonesia",earthquake,4.8,2,0.254,4,reviewed,us,us
+2018-12-06T01:02:46.330Z,-8.3948,116.0135,12,5.5,mww,,15,1.843,0.93,us,us1000i36p,2022-05-03T19:41:02.958Z,"8 km WSW of Gili Air, Indonesia",earthquake,6.2,1.7,0.054,33,reviewed,us,us
+2018-12-02T13:30:06.190Z,-7.3965,114.3418,24.51,4.1,mb,,85,1.083,0.67,us,us1000i469,2019-02-09T19:02:23.040Z,"45 km NE of Panji, Indonesia",earthquake,6.9,7.7,0.174,9,reviewed,us,us
+2018-11-26T01:37:23.650Z,-7.4043,114.3622,10,4.1,mb,,71,1.079,0.8,us,us1000hycj,2019-02-09T19:02:12.040Z,"45 km NE of Panji, Indonesia",earthquake,6.8,1.9,0.185,10,reviewed,us,us
+2018-11-17T05:41:13.070Z,-8.5675,116.266,10,3.7,mb,,80,2.093,0.41,us,us1000ht49,2019-01-30T18:36:22.040Z,"15 km N of Praya, Indonesia",earthquake,6.4,2,0.291,3,reviewed,us,us
+2018-11-14T17:23:31.720Z,-9.0392,115.4621,68.09,5,mb,,48,1.413,1.01,us,us1000hrpc,2025-12-22T17:52:19.780Z,"36 km SE of Nusa Dua, Indonesia",earthquake,6.2,4.9,0.069,68,reviewed,us,us
+2018-11-06T01:00:13.270Z,-8.4141,116.4711,10,4.5,mb,,51,2.294,0.92,us,us2000i79h,2019-01-21T16:42:54.040Z,"23 km WNW of Labuan Lombok, Indonesia",earthquake,8.2,1.4,0.139,15,reviewed,us,us
+2018-10-27T09:30:36.630Z,-8.2552,116.3751,10,4.1,mb,,76,2.21,0.78,us,us2000i5h5,2019-01-10T17:18:43.040Z,"34 km ENE of Gili Air, Indonesia",earthquake,5.7,2,0.158,11,reviewed,us,us
+2018-10-27T09:06:30.260Z,-9.0242,115.9416,76.72,4.5,mb,,46,1.852,0.66,us,us1000hhxp,2019-01-10T17:18:39.040Z,"36 km SSW of Lembar, Indonesia",earthquake,6.6,7.7,0.106,26,reviewed,us,us
+2018-10-18T01:12:58.940Z,-8.2368,116.1746,10,4.6,mb,,67,2.014,0.77,us,us1000hdpx,2018-12-21T22:27:04.040Z,"16 km NE of Gili Air, Indonesia",earthquake,6.1,1.9,0.102,29,reviewed,us,us
+2018-10-10T18:44:55.280Z,-7.4525,114.4553,9,6,mww,,27,1.054,1.15,us,us1000ha6q,2023-11-19T01:32:52.421Z,"49 km NE of Panji, Indonesia",earthquake,5.8,1.7,0.041,58,reviewed,us,us
+2018-09-18T18:45:05.750Z,-8.4363,116.0396,10,4.3,mb,,55,1.867,1.01,us,us2000hhbv,2018-11-27T15:51:59.040Z,"Lombok region, Indonesia",earthquake,5.4,1.9,0.142,15,reviewed,us,us
+2018-09-18T07:27:16.260Z,-8.2649,116.2794,10,4.7,mb,,68,2.114,1.28,us,us2000hg94,2018-11-27T15:51:58.040Z,"24 km ENE of Gili Air, Indonesia",earthquake,5.4,1.9,0.12,21,reviewed,us,us
+2018-09-14T20:55:04.490Z,-8.2517,116.5078,10,4.4,mb,,126,2.341,1.42,us,us2000hi8b,2018-11-21T18:19:15.040Z,"32 km NNW of Labuan Lombok, Indonesia",earthquake,5.6,1.9,0.148,13,reviewed,us,us
+2018-09-14T04:57:07.270Z,-8.1667,116.443,10,4.4,mb,,74,2.287,1.26,us,us2000hi7c,2018-11-21T18:19:15.040Z,"44 km NNW of Labuan Lombok, Indonesia",earthquake,9.5,1.9,0.134,16,reviewed,us,us
+2018-09-10T20:22:24.280Z,-8.1902,116.5118,10,5,mww,,49,2.351,0.9,us,us2000hc2z,2018-11-21T18:19:08.040Z,"38 km NNW of Labuan Lombok, Indonesia",earthquake,7.2,1.8,0.089,12,reviewed,us,us
+2018-09-10T08:49:15.830Z,-8.1685,116.5351,14.01,4.7,mb,,40,2.377,1.13,us,us2000hbu5,2018-11-21T18:19:08.040Z,"39 km NNW of Labuan Lombok, Indonesia",earthquake,7.2,5,0.085,42,reviewed,us,us
+2018-09-04T04:07:37.420Z,-8.2884,116.3477,10,4.3,mb,,79,2.179,0.63,us,us2000hdg9,2018-11-14T17:40:13.040Z,"29 km ENE of Pemenang, Indonesia",earthquake,7.8,1.9,0.154,12,reviewed,us,us
+2018-09-02T00:15:46.250Z,-8.1302,116.4089,16.06,5.3,mww,,24,2.258,1.02,us,us2000h6pp,2022-05-03T19:29:02.223Z,"43 km NE of Gili Air, Indonesia",earthquake,6.5,3.2,0.065,23,reviewed,us,us
+2018-08-31T02:37:13.740Z,-8.4258,116.067,10,4.8,mb,,59,1.894,0.88,us,us2000h5ut,2018-11-07T18:37:06.040Z,"4 km WSW of Pemenang, Indonesia",earthquake,4.2,1.8,0.107,27,reviewed,us,us
+2018-08-31T02:21:54.910Z,-9.0292,115.872,62.48,4.1,mb,,116,1.788,0.33,us,us2000haea,2018-11-07T18:37:12.040Z,"40 km SSW of Lembar, Indonesia",earthquake,10.8,15.3,0.165,10,reviewed,us,us
+2018-08-29T23:10:31.190Z,-8.3596,115.9747,10,4.4,mb,,134,1.806,0.81,us,us2000h9ik,2018-11-07T18:37:11.040Z,"11 km W of Gili Air, Indonesia",earthquake,8.2,2,0.203,7,reviewed,us,us
+2018-08-23T18:08:35.110Z,-8.3321,116.0527,10,4.2,mb,,79,1.885,1.05,us,us2000h62q,2018-11-01T17:51:04.040Z,"4 km NW of Gili Air, Indonesia",earthquake,5.1,1.9,0.146,13,reviewed,us,us
+2018-08-22T22:48:42.610Z,-9.0829,114.8224,70.95,5.1,mb,,40,0.899,1.12,us,us1000gfrs,2025-12-22T17:50:17.671Z,"49 km SW of Jimbaran, Indonesia",earthquake,6.6,3.7,0.062,85,reviewed,us,us
+2018-08-20T22:28:35.740Z,-8.1382,116.4748,10,4.2,mb,,73,2.322,1.44,us,us1000gjh1,2018-11-01T17:51:01.040Z,"45 km NNW of Labuan Lombok, Indonesia",earthquake,7.1,1.7,0.16,11,reviewed,us,us
+2018-08-20T21:55:26.200Z,-8.2426,116.4628,10,4.4,mb,,76,2.297,0.86,us,us1000gjgz,2018-11-01T17:51:01.040Z,"36 km NW of Labuan Lombok, Indonesia",earthquake,6.7,1.8,0.143,14,reviewed,us,us
+2018-08-20T21:53:52.240Z,-8.2622,116.4407,10,4.4,mb,,76,2.274,1.3,us,us1000gjgy,2018-11-01T17:51:01.040Z,"36 km NW of Labuan Lombok, Indonesia",earthquake,7.9,1.9,0.169,10,reviewed,us,us
+2018-08-20T10:31:32.430Z,-8.2421,116.3728,10,4.9,mb,,61,2.209,0.69,us,us1000gdu7,2018-11-01T17:50:50.040Z,"34 km ENE of Gili Air, Indonesia",earthquake,2.9,1.9,0.082,47,reviewed,us,us
+2018-08-19T23:29:55.580Z,-8.1988,116.5361,10,4.6,mb,,75,2.374,0.89,us,us1000gdkn,2018-10-27T16:22:07.040Z,"36 km NNW of Labuan Lombok, Indonesia",earthquake,3.9,1.9,0.128,18,reviewed,us,us
+2018-08-19T21:44:52.250Z,-8.3391,116.5462,10,4.7,mb,,78,2.372,0.89,us,us1000gdj3,2018-10-27T16:22:07.040Z,"22 km NW of Labuan Lombok, Indonesia",earthquake,7.2,1.9,0.142,15,reviewed,us,us
+2018-08-19T20:56:11.130Z,-8.2391,116.4799,10,4.4,mb,,95,2.314,1.37,us,us1000girw,2018-10-27T16:22:11.040Z,"35 km NW of Labuan Lombok, Indonesia",earthquake,5.5,2,0.189,8,reviewed,us,us
+2018-08-19T15:28:58.880Z,-8.391,116.5568,10,5.5,mb,,30,2.38,1.17,us,us1000gdb7,2022-05-03T19:54:34.591Z,"17 km NW of Labuan Lombok, Indonesia",earthquake,2.3,1.7,0.068,76,reviewed,us,us
+2018-08-19T15:16:35.240Z,-8.3511,116.5565,10,5.8,mb,,41,2.381,0.88,us,us1000gdaz,2022-05-03T20:00:58.436Z,"20 km NW of Labuan Lombok, Indonesia",earthquake,6.8,1.7,0.056,123,reviewed,us,us
+2018-08-19T15:15:09.090Z,-8.1289,116.4207,10,4.8,mb,,135,2.27,0.76,us,us1000giql,2018-10-27T16:22:11.040Z,"45 km NE of Gili Air, Indonesia",earthquake,5.9,1.9,0.249,9,reviewed,us,us
+2018-08-18T20:12:58.080Z,-8.3322,116.0741,22.18,3.8,mb,,134,1.906,0.99,us,us1000gdlk,2018-10-27T16:22:07.040Z,"2 km NNW of Gili Air, Indonesia",earthquake,8.4,12.1,0.208,6,reviewed,us,us
+2018-08-17T15:21:09.570Z,-8.2859,116.5135,10,4.4,mb,,69,2.343,0.66,us,us1000gg31,2018-10-27T16:22:08.040Z,"29 km NW of Labuan Lombok, Indonesia",earthquake,8.1,1.9,0.138,15,reviewed,us,us
+2018-08-16T15:14:26.510Z,-7.5991,115.7448,302.54,4.1,mb,,59,1.799,0.85,us,us1000genx,2018-10-27T16:22:08.040Z,"91 km NNW of Gili Air, Indonesia",earthquake,8,7.8,0.126,17,reviewed,us,us
+2018-08-15T09:04:08.900Z,-8.2751,116.5198,10,4.4,mb,,77,2.35,0.42,us,us1000g9l5,2018-10-27T16:22:03.040Z,"29 km NNW of Labuan Lombok, Indonesia",earthquake,6.3,2,0.17,10,reviewed,us,us
+2018-08-13T01:42:21.880Z,-8.365,116.2402,10,4.6,mb,,62,2.068,0.84,us,us1000g7lr,2018-10-27T16:22:02.040Z,"15 km ENE of Pemenang, Indonesia",earthquake,5.8,1.9,0.164,11,reviewed,us,us
+2018-08-11T15:42:08.030Z,-8.2534,116.3502,10,4.4,mb,,76,2.185,1.34,us,us1000g7k3,2018-10-17T18:11:54.040Z,"31 km ENE of Gili Air, Indonesia",earthquake,8.9,1.9,0.155,12,reviewed,us,us
+2018-08-10T15:57:38.150Z,-8.0879,116.4287,10,4.8,mb,,64,2.285,1.21,us,us1000g6f2,2018-10-17T18:11:48.040Z,"48 km NE of Gili Air, Indonesia",earthquake,6.7,1.7,0.102,30,reviewed,us,us
+2018-08-09T20:55:23.660Z,-8.3192,116.1937,10,4.2,mb,,78,2.025,0.67,us,us1000g91p,2018-10-17T18:11:54.040Z,"12 km ENE of Gili Air, Indonesia",earthquake,7.3,1.9,0.147,13,reviewed,us,us
+2018-08-09T05:25:32.380Z,-8.3065,116.2304,15,5.9,mww,,19,2.062,1.03,us,us1000g5n1,2023-03-15T23:26:14.656Z,"17 km ENE of Gili Air, Indonesia",earthquake,6.4,1.7,0.044,49,reviewed,us,us
+2018-08-08T02:10:53.200Z,-8.3991,116.1263,10,4.6,mb,,63,1.954,1.14,us,us1000g563,2018-10-17T18:11:54.040Z,"2 km ENE of Pemenang, Indonesia",earthquake,8.2,1.9,0.123,20,reviewed,us,us
+2018-08-07T14:04:38.420Z,-8.283,116.1737,10,4.3,mb,,122,2.008,0.57,us,us1000g6e4,2018-10-17T18:11:48.040Z,"13 km NE of Gili Air, Indonesia",earthquake,9.1,2,0.169,10,reviewed,us,us
+2018-08-07T09:49:00.730Z,-8.7157,116.276,10,4.5,mb,,106,2.114,1.34,us,us1000g6e1,2018-10-17T18:11:54.040Z,"1 km SSE of Praya, Indonesia",earthquake,7.1,1.8,0.124,19,reviewed,us,us
+2018-08-07T06:01:10.490Z,-8.4188,115.999,10,4.5,mb,,57,1.827,0.84,us,us1000g50h,2022-08-08T06:56:36.304Z,"9 km NNW of Senggigi, Indonesia",earthquake,5.8,1.9,0.128,18,reviewed,us,us
+2018-08-07T03:01:08.490Z,-8.2063,116.3945,10,4.5,mb,,75,2.234,0.86,us,us1000g4m8,2018-10-17T18:11:48.040Z,"38 km ENE of Gili Air, Indonesia",earthquake,6.8,1.9,0.15,13,reviewed,us,us
+2018-08-06T20:28:23.680Z,-8.2584,116.2076,10,4.3,mb,,84,2.044,0.59,us,us1000g6ch,2018-10-17T18:11:48.040Z,"17 km NE of Gili Air, Indonesia",earthquake,5.6,1.9,0.153,12,reviewed,us,us
+2018-08-06T18:36:55.760Z,-8.2366,116.3357,10,4.2,mb,,134,2.173,0.85,us,us1000g6cc,2018-10-17T18:11:54.040Z,"30 km ENE of Gili Air, Indonesia",earthquake,4.8,2,0.167,10,reviewed,us,us
+2018-08-06T18:32:58.850Z,-8.2215,116.2953,10,4.3,mb,,83,2.135,0.56,us,us1000g6cd,2018-10-17T18:11:48.040Z,"27 km ENE of Gili Air, Indonesia",earthquake,8.2,1.9,0.142,14,reviewed,us,us
+2018-08-06T18:21:19.200Z,-8.2479,116.364,22.5,5.3,mww,,37,2.199,0.88,us,us1000g496,2022-05-03T19:26:09.079Z,"33 km ENE of Gili Air, Indonesia",earthquake,4.6,3.6,0.059,28,reviewed,us,us
+2018-08-06T17:49:26.850Z,-8.3022,116.3676,10,4.2,mb,,78,2.198,1.18,us,us1000g6cb,2018-10-17T18:11:54.040Z,"31 km ENE of Pemenang, Indonesia",earthquake,7.7,1.9,0.159,11,reviewed,us,us
+2018-08-06T15:50:55.570Z,-8.3988,116.0135,26.01,5.1,mww,,41,1.842,1.06,us,us1000g461,2022-05-03T19:26:11.353Z,"8 km WSW of Gili Air, Indonesia",earthquake,7.1,4,0.062,25,reviewed,us,us
+2018-08-06T15:22:11.990Z,-8.2729,116.4607,33.31,4.1,mb,,107,2.292,0.47,us,us1000g6c6,2018-10-17T18:11:54.040Z,"33 km NW of Labuan Lombok, Indonesia",earthquake,8.8,6.2,0.174,9,reviewed,us,us
+2018-08-06T01:53:45.210Z,-8.2425,116.307,12.93,4.7,mb,,54,2.144,0.97,us,us1000g53v,2018-10-17T18:11:54.040Z,"27 km ENE of Gili Air, Indonesia",earthquake,7.9,4.4,0.106,27,reviewed,us,us
+2018-08-06T00:28:18.020Z,-8.3667,116.3062,10,5.3,mww,,29,2.133,0.75,us,us1000g3yg,2022-05-03T19:26:07.895Z,"22 km E of Pemenang, Indonesia",earthquake,6.6,1.7,0.073,18,reviewed,us,us
+2018-08-05T21:17:40.890Z,-8.4534,116.1604,10,4.4,mb,,66,1.986,0.66,us,us1000g5tz,2018-10-16T15:34:13.040Z,"8 km SE of Pemenang, Indonesia",earthquake,6.1,1.9,0.123,19,reviewed,us,us
+2018-08-05T20:41:27.130Z,-8.2631,116.2181,10,4.6,mb,,54,2.054,1.04,us,us1000g3xb,2018-10-16T15:34:11.040Z,"18 km NE of Gili Air, Indonesia",earthquake,7.9,1.9,0.12,21,reviewed,us,us
+2018-08-05T20:37:10.870Z,-8.385,116.2123,10,4.5,mb,,185,13.147,0.79,us,us1000g5u7,2018-10-16T15:34:13.040Z,"12 km E of Pemenang, Indonesia",earthquake,10,2,0.157,12,reviewed,us,us
+2018-08-05T19:44:55.270Z,-8.4257,116.207,10,4.4,mb,,91,2.033,1.01,us,us1000g4ii,2018-10-16T15:34:12.040Z,"11 km ESE of Pemenang, Indonesia",earthquake,7.8,2,0.189,8,reviewed,us,us
+2018-08-05T18:47:18.520Z,-8.5038,116.2452,10,4.2,mb,,156,2.07,1.14,us,us1000g5ts,2018-10-16T15:34:13.040Z,"16 km ENE of Mataram, Indonesia",earthquake,9.1,2,0.167,10,reviewed,us,us
+2018-08-05T18:41:11.510Z,-8.23,115.9935,10,4.3,mb,,81,1.837,0.65,us,us1000g5u6,2018-10-16T15:34:05.040Z,"17 km NW of Gili Air, Indonesia",earthquake,11.3,1.9,0.16,11,reviewed,us,us
+2018-08-05T17:42:34.960Z,-8.4061,116.0341,10,4.3,mb,,97,1.863,0.54,us,us1000g5tp,2018-10-16T15:34:11.040Z,"7 km SW of Gili Air, Indonesia",earthquake,8.3,1.9,0.153,12,reviewed,us,us
+2018-08-05T16:49:41.600Z,-8.2702,116.2412,10,5,mb,,68,2.076,0.97,us,us1000g3vu,2018-10-16T15:34:12.040Z,"19 km ENE of Gili Air, Indonesia",earthquake,6.9,1.8,0.07,65,reviewed,us,us
+2018-08-05T16:29:58.570Z,-8.2935,116.1603,24.47,4.2,mb,,101,1.994,0.82,us,us1000g5tm,2018-10-16T15:34:11.040Z,"11 km NE of Gili Air, Indonesia",earthquake,9.9,3.6,0.176,9,reviewed,us,us
+2018-08-05T15:26:52.880Z,-8.2571,116.4723,21.04,4.3,mb,,76,2.305,0.78,us,us1000g3vm,2018-10-16T15:34:12.040Z,"34 km NW of Labuan Lombok, Indonesia",earthquake,6.2,6.7,0.142,14,reviewed,us,us
+2018-08-05T15:11:30.460Z,-8.4364,116.0578,32.41,4.4,mb,,82,1.885,0.79,us,us1000g5tv,2018-10-16T15:34:13.040Z,"6 km SW of Pemenang, Indonesia",earthquake,6.9,10.3,0.189,8,reviewed,us,us
+2018-08-05T14:53:02.330Z,-8.156,116.2039,28.28,4.6,mb,,65,2.054,0.73,us,us1000g5th,2018-10-16T15:34:11.040Z,"26 km NNE of Gili Air, Indonesia",earthquake,7.5,5.1,0.114,23,reviewed,us,us
+2018-08-05T14:45:37.550Z,-8.3456,116.0894,21.12,4.5,mb,,79,1.92,0.76,us,us1000g5tf,2018-10-16T15:34:11.040Z,"1 km NNE of Gili Air, Indonesia",earthquake,7.8,6.4,0.145,14,reviewed,us,us
+2018-08-05T14:42:14.910Z,-8.2243,116.4779,3.3,4.4,mb,,75,2.314,0.82,us,us1000g3vg,2018-10-16T15:34:11.040Z,"36 km NW of Labuan Lombok, Indonesia",earthquake,7.5,5.9,0.143,14,reviewed,us,us
+2018-08-05T14:24:40.450Z,-8.2992,116.2225,24.45,4.6,mb,,78,2.055,1.03,us,us1000g5tu,2018-10-16T15:34:13.040Z,"16 km ENE of Gili Air, Indonesia",earthquake,7.9,5.7,0.141,15,reviewed,us,us
+2018-08-05T14:10:38.220Z,-8.1484,116.4694,10,4.1,mb,,69,2.315,1.12,us,us1000g5td,2018-10-16T15:34:11.040Z,"44 km NNW of Labuan Lombok, Indonesia",earthquake,6,1.9,0.145,13,reviewed,us,us
+2018-08-05T13:12:13.280Z,-8.4005,116.13,13.33,4.8,mb,,51,1.958,0.84,us,us1000g3v7,2018-10-16T15:34:12.040Z,"3 km E of Pemenang, Indonesia",earthquake,3.3,4.2,0.119,26,reviewed,us,us
+2018-08-05T13:07:34.550Z,-8.2157,116.4561,12.14,4.7,mb,,67,2.293,0.68,us,us1000g3v5,2018-10-16T15:34:11.040Z,"39 km NW of Labuan Lombok, Indonesia",earthquake,4.7,5,0.1,30,reviewed,us,us
+2018-08-05T12:58:03.180Z,-8.2955,116.1998,10,4.9,mb,,73,2.033,0.96,us,us1000g5ub,2018-10-16T15:34:11.040Z,"14 km ENE of Gili Air, Indonesia",earthquake,7.2,1.9,0.145,15,reviewed,us,us
+2018-08-05T12:49:55.250Z,-8.358,116.1402,31.26,5.5,mb,,28,1.97,1.13,us,us1000g3uy,2022-05-03T19:25:54.787Z,"6 km E of Gili Air, Indonesia",earthquake,6.4,3.5,0.053,121,reviewed,us,us
+2018-08-05T12:42:31.440Z,-8.3214,116.1577,13.64,4.9,mb,,70,1.989,1.32,us,us1000g3ux,2018-10-16T15:34:11.040Z,"9 km ENE of Gili Air, Indonesia",earthquake,7.8,5.1,0.099,32,reviewed,us,us
+2018-08-05T12:35:19.700Z,-8.2996,116.031,16.26,4.2,mb,,69,1.866,0.78,us,us1000g5t9,2018-10-16T15:34:11.040Z,"8 km NW of Gili Air, Indonesia",earthquake,8.9,5.3,0.137,15,reviewed,us,us
+2018-08-05T12:27:10.680Z,-8.1996,116.4645,3.96,4.3,mb,,67,2.304,0.58,us,us1000g5t4,2018-10-16T15:34:11.040Z,"39 km NW of Labuan Lombok, Indonesia",earthquake,7.4,5.6,0.137,15,reviewed,us,us
+2018-08-05T12:25:03.430Z,-8.2789,116.2548,32.01,4.6,mb,,111,4.752,0.79,us,us1000g5t8,2018-10-16T15:34:13.040Z,"20 km ENE of Gili Air, Indonesia",earthquake,9.3,4.4,0.116,22,reviewed,us,us
+2018-08-05T12:24:07.300Z,-8.4594,116.0595,10,4.1,mb,,73,1.886,1.26,us,us1000g5t5,2018-10-16T15:34:13.040Z,"4 km NNE of Senggigi, Indonesia",earthquake,8.6,1.9,0.185,8,reviewed,us,us
+2018-08-05T12:21:40.150Z,-8.2236,116.2892,34.56,4.4,mb,,67,2.128,1.37,us,us1000g5t6,2018-10-16T15:34:11.040Z,"27 km ENE of Gili Air, Indonesia",earthquake,5.1,6.9,0.149,13,reviewed,us,us
+2018-08-05T12:18:06.840Z,-8.3542,116.1689,29.25,4.6,mb,,48,1.998,1.33,us,us1000g5t7,2018-10-16T15:34:13.040Z,"9 km NE of Pemenang, Indonesia",earthquake,7.5,4.9,0.103,28,reviewed,us,us
+2018-08-05T12:08:39.810Z,-8.3658,116.0222,6.75,4.3,mb,,59,1.853,0.77,us,us1000g5tj,2018-10-16T15:34:11.040Z,"6 km W of Gili Air, Indonesia",earthquake,8,3.4,0.137,15,reviewed,us,us
+2018-08-05T12:07:04.490Z,-8.5068,116.1946,23.55,4.5,mb,,83,2.02,0.83,us,us1000g5t3,2018-10-16T15:34:13.040Z,"12 km NE of Mataram, Indonesia",earthquake,6.6,5.4,0.145,14,reviewed,us,us
+2018-08-05T12:03:24.190Z,-8.3608,116.0241,17.72,5.1,mb,,48,1.855,0.86,us,us1000g5tk,2018-10-16T15:34:11.040Z,"6 km W of Gili Air, Indonesia",earthquake,5.6,4.8,0.106,29,reviewed,us,us
+2018-08-05T11:46:38.630Z,-8.2581,116.4375,34,6.9,mww,,15,2.271,1.05,us,us1000g3ub,2025-09-29T16:00:15.152Z,"36 km NW of Labuan Lombok, Indonesia",earthquake,6.2,1.7,0.034,83,reviewed,us,us
+2018-07-30T19:09:12.590Z,-8.0945,114.3179,199.86,4.4,mb,,85,0.407,1.07,us,us1000g2lc,2018-10-16T15:34:10.040Z,"14 km SW of Wongsorejo, Indonesia",earthquake,9.5,3.6,0.094,33,reviewed,us,us
+2018-07-29T10:05:01.990Z,-8.2378,116.4203,18.17,4.2,mb,,76,2.256,0.85,us,us1000g1zy,2018-10-09T16:43:29.040Z,"39 km ENE of Gili Air, Indonesia",earthquake,8,3.4,0.147,13,reviewed,us,us
+2018-07-29T04:22:50.950Z,-8.3037,116.4664,10,4.2,mb,,77,2.295,1.02,us,us1000g1zt,2018-10-09T16:43:28.040Z,"30 km NW of Labuan Lombok, Indonesia",earthquake,7.9,1.9,0.141,14,reviewed,us,us
+2018-07-29T03:04:28.000Z,-8.2755,116.487,10,4.4,mb,,77,2.318,0.86,us,us1000g1zp,2018-10-09T16:43:28.040Z,"31 km NW of Labuan Lombok, Indonesia",earthquake,7.2,1.9,0.126,18,reviewed,us,us
+2018-07-29T02:20:08.550Z,-8.4127,116.5145,10,4.8,mb,,72,2.337,1.11,us,us2000ggf7,2018-10-09T16:43:29.040Z,"19 km WNW of Labuan Lombok, Indonesia",earthquake,5.6,1.7,0.103,29,reviewed,us,us
+2018-07-29T01:50:32.220Z,-8.3133,116.4514,10.9,5.3,mww,,29,2.28,1.06,us,us2000gges,2022-05-03T19:25:03.815Z,"31 km NW of Labuan Lombok, Indonesia",earthquake,6.6,3.2,0.086,13,reviewed,us,us
+2018-07-29T01:44:24.260Z,-8.3605,116.5625,10,4.8,mb,,46,2.387,0.97,us,us2000ggep,2018-10-09T16:43:29.040Z,"19 km NW of Labuan Lombok, Indonesia",earthquake,6.9,1.9,0.092,37,reviewed,us,us
+2018-07-29T00:05:30.050Z,-8.3172,116.4413,10,4.3,mb,,78,2.27,0.93,us,us1000g1zi,2018-10-09T16:43:28.040Z,"32 km NW of Labuan Lombok, Indonesia",earthquake,4.6,1.9,0.16,11,reviewed,us,us
+2018-07-28T23:39:33.030Z,-8.1745,116.3593,10,4.6,mb,,74,2.203,1.03,us,us2000ggd6,2018-10-09T16:43:27.040Z,"36 km ENE of Gili Air, Indonesia",earthquake,7.9,1.9,0.114,23,reviewed,us,us
+2018-07-28T23:19:35.640Z,-8.2053,116.5143,10,4.3,mb,,83,2.352,0.29,us,us1000g1zb,2018-10-09T16:43:27.040Z,"36 km NNW of Labuan Lombok, Indonesia",earthquake,7.6,1.9,0.189,8,reviewed,us,us
+2018-07-28T23:16:26.230Z,-8.287,116.5426,10,4.9,mb,,48,2.372,0.81,us,us2000gge4,2018-10-09T16:43:29.040Z,"27 km NNW of Labuan Lombok, Indonesia",earthquake,7.2,1.9,0.087,42,reviewed,us,us
+2018-07-28T23:06:48.820Z,-8.2204,116.4624,10,5.4,mww,,24,2.299,1.01,us,us2000ggcj,2022-05-03T19:25:02.205Z,"38 km NW of Labuan Lombok, Indonesia",earthquake,6.4,1.7,0.117,7,reviewed,us,us
+2018-07-28T22:58:44.060Z,-8.1808,116.4971,10,4.7,mb,,80,2.338,1.38,us,us1000g1z6,2018-10-09T16:43:27.040Z,"39 km NNW of Labuan Lombok, Indonesia",earthquake,4.8,1.9,0.175,10,reviewed,us,us
+2018-07-28T22:56:45.160Z,-8.3065,116.4997,10,4.8,mb,,134,2.328,0.59,us,us1000g1zh,2018-10-09T16:43:28.040Z,"28 km NW of Labuan Lombok, Indonesia",earthquake,10.7,1.9,0.226,8,reviewed,us,us
+2018-07-28T22:47:38.740Z,-8.2395,116.508,14,6.4,mww,,14,2.342,1.15,us,us2000ggbs,2022-05-03T19:45:52.527Z,"33 km NNW of Labuan Lombok, Indonesia",earthquake,3.6,1.6,0.054,33,reviewed,us,us
+2018-07-15T23:48:52.010Z,-9.0101,115.4768,79.79,4.7,mb,,97,1.415,0.75,us,us2000g5ts,2018-10-02T16:40:43.040Z,"35 km SE of Nusa Dua, Indonesia",earthquake,6.9,12.9,0.129,18,reviewed,us,us
+2018-07-03T01:19:00.570Z,-9.743,115.1596,55.29,4.4,mb,,81,1.609,0.94,us,us2000fvau,2018-09-27T14:03:38.040Z,"104 km S of Nusa Dua, Indonesia",earthquake,8.2,7.8,0.117,21,reviewed,us,us
+2018-07-01T06:00:14.040Z,-8.5723,116.2467,121.93,4.1,mb,,85,2.074,0.91,us,us2000fyae,2018-09-21T16:25:57.040Z,"14 km E of Mataram, Indonesia",earthquake,8.3,8.8,0.117,20,reviewed,us,us
+2018-05-22T10:01:42.900Z,-8.8601,115.6813,93.46,4.4,mb,,46,1.56,1.27,us,us1000ec0i,2018-08-21T21:23:50.040Z,"45 km WSW of Lembar, Indonesia",earthquake,8.1,7.3,0.088,37,reviewed,us,us
+2018-04-26T09:54:19.830Z,-7.3343,115.5685,360.63,5,mb,,35,1.8,1.19,us,us1000dsku,2025-12-22T17:46:31.187Z,"101 km NNE of Singaraja, Indonesia",earthquake,8.1,6.3,0.058,95,reviewed,us,us
+2018-03-03T02:52:46.220Z,-8.2958,115.4889,10,3.9,mb,,78,1.334,1.16,us,us2000dbrk,2018-05-27T01:06:10.040Z,"20 km NNW of Bedugul, Indonesia",earthquake,7.3,1.9,0.21,6,reviewed,us,us
+2018-02-02T05:59:12.280Z,-8.1902,115.8423,10,4.2,mb,,112,1.695,0.9,us,us2000d1yt,2018-04-25T01:39:42.040Z,"32 km NW of Gili Air, Indonesia",earthquake,10.5,1.9,0.187,8,reviewed,us,us
+2017-11-16T17:58:25.130Z,-8.6011,115.2464,117.02,4.1,mb,,93,1.09,0.79,us,us2000bu1e,2018-02-06T02:45:38.040Z,"6 km NNE of Denpasar, Indonesia",earthquake,10.2,7.3,0.157,11,reviewed,us,us
+2017-11-08T21:54:19.570Z,-8.3071,115.5272,22.71,4.9,mww,,43,1.37,0.76,us,us2000bkk8,2022-05-03T18:39:53.129Z,"17 km NNW of Bedugul, Indonesia",earthquake,4.1,4.8,0.093,11,reviewed,us,us
+2017-09-26T08:27:08.310Z,-8.3437,115.4547,7.77,4,mb,,80,1.294,1.05,us,us2000b0x1,2022-08-07T19:27:39.986Z,"17 km NNE of Banjar Wangsian, Indonesia",earthquake,9.8,6.3,0.173,9,reviewed,us,us
+2017-08-22T08:02:36.880Z,-8.3954,115.1702,169.06,4.1,mb,,124,1.009,0.71,us,us2000abqi,2017-11-22T03:43:28.040Z,"16 km NW of Ubud, Indonesia",earthquake,12.4,7.6,0.131,16,reviewed,us,us
+2017-08-13T05:31:47.000Z,-7.6158,115.9465,304.1,4.8,mb,,46,1.969,0.97,us,us2000a7rf,2017-11-14T01:42:05.040Z,"83 km N of Gili Air, Indonesia",earthquake,7.7,5.1,0.06,86,reviewed,us,us
+2017-04-08T11:08:03.910Z,-9.3571,114.4122,83.9,4.3,mb,,94,0.917,1.13,us,us10008h9a,2017-06-23T07:26:36.040Z,"102 km S of Muncar, Indonesia",earthquake,7.1,7.1,0.148,13,reviewed,us,us
+2017-04-07T18:25:31.010Z,-9.1344,115.5351,95.69,4.3,mb,,46,1.517,1.14,us,us10008h7i,2017-06-23T07:26:35.040Z,"49 km SE of Nusa Dua, Indonesia",earthquake,7.3,5.8,0.122,19,reviewed,us,us
+2017-03-21T23:40:31.630Z,-8.3858,115.3706,115.2,4,mb,,98,1.208,0.87,us,us20008vc8,2017-06-12T19:46:53.040Z,"13 km NNW of Banjar Wangsian, Indonesia",earthquake,6,8,0.149,12,reviewed,us,us
+2017-03-21T23:10:25.150Z,-8.4915,115.3233,111.71,5.6,mww,,17,1.158,1.11,us,us20008tme,2023-03-15T22:42:48.907Z,"6 km ENE of Ubud, Indonesia",earthquake,6.9,3,0.066,22,reviewed,us,us
+2017-02-12T04:25:11.430Z,-9.3531,115.7353,60.51,4.6,mb,,46,1.793,1.03,us,us20008j9y,2017-05-13T01:03:17.040Z,"78 km SSW of Lembar, Indonesia",earthquake,6.8,3.2,0.077,50,reviewed,us,us
+2016-11-23T16:21:33.770Z,-8.3593,115.893,35.31,4.2,mb,,86,1.726,0.8,us,us10007bsv,2017-02-15T23:21:38.040Z,"20 km W of Gili Air, Indonesia",earthquake,8.9,9.2,0.136,15,reviewed,us,us
+2016-09-23T17:15:02.890Z,-8.6862,115.3468,119.18,4.2,mb,,74,1.2,1.42,us,us10006upk,2016-12-14T03:17:44.040Z,"14 km ESE of Denpasar, Indonesia",earthquake,3.3,7.2,0.105,27,reviewed,us,us
+2016-08-09T15:37:37.150Z,-8.4091,115.6386,18.51,4.3,mb,,82,1.471,0.79,us,us10006cz7,2016-10-26T03:10:24.040Z,"5 km NNE of Amlapura, Indonesia",earthquake,7,6.6,0.168,10,reviewed,us,us
+2016-07-27T20:47:43.380Z,-7.8459,114.6308,23.8,4.3,mb,,80,0.78,0.65,us,us100069h2,2016-09-24T22:47:22.040Z,"29 km ENE of Wongsorejo, Indonesia",earthquake,6.4,6.6,0.161,12,reviewed,us,us
+2016-06-11T10:07:56.000Z,-7.9595,115.146,212.18,4.6,mb,,55,4.579,1.08,us,us200063sx,2016-08-25T01:22:51.040Z,"18 km NNE of Singaraja, Indonesia",earthquake,7.2,5,0.068,64,reviewed,us,us
+2016-06-09T02:40:31.870Z,-9.1475,115.8457,92.4,4.2,mb,,78,1.804,0.75,us,us200062z8,2016-08-18T00:36:36.040Z,"52 km SSW of Lembar, Indonesia",earthquake,7.5,7,0.121,19,reviewed,us,us
+2016-04-27T09:13:48.380Z,-9.5262,115.5471,57.42,4.2,mb,,126,1.732,0.68,us,us10005e2n,2016-07-08T02:49:25.040Z,"87 km SSE of Nusa Dua, Indonesia",earthquake,13.4,8.7,0.136,15,reviewed,us,us
+2016-03-31T09:34:43.270Z,-8.4873,115.9925,18.84,4.4,mb,,57,1.82,1.37,us,us20005dmj,2022-08-07T10:39:33.732Z,"5 km W of Senggigi, Indonesia",earthquake,6.9,4.4,0.126,18,reviewed,us,us
+2016-03-22T08:21:54.790Z,-7.8707,115.6682,229.38,4.3,mb,,60,1.614,0.73,us,us20005c9g,2016-06-09T21:41:56.040Z,"64 km N of Amlapura city, Indonesia",earthquake,10.8,7.6,0.116,21,reviewed,us,us
+2016-03-01T10:13:01.090Z,-9.2568,115.2337,60.44,3.9,mb,,102,1.324,1.02,us,us10004upa,2016-05-06T23:34:21.040Z,"50 km S of Nusa Dua, Indonesia",earthquake,12.8,6.2,0.162,10,reviewed,us,us
+2016-02-08T15:19:45.770Z,-8.363,115.6241,17.69,4.1,mb,,128,1.46,0.96,us,us20004yqq,2022-08-07T09:30:27.670Z,"9 km N of Amlapura, Indonesia",earthquake,7.1,4.7,0.145,13,reviewed,us,us
+2015-12-09T11:34:17.670Z,-8.1556,116.0983,209.93,4.8,mb,,49,1.951,1.13,us,us20004fu7,2022-08-01T22:42:23.443Z,"22 km N of Gili Air, Indonesia",earthquake,5.5,5.8,0.069,65,reviewed,us,us
+2015-12-08T17:36:31.230Z,-8.2904,115.2539,6.91,4.1,mb,,69,1.104,1.02,us,us20004gf9,2016-03-02T03:36:39.040Z,"19 km E of Munduk, Indonesia",earthquake,6.3,6.3,0.151,12,reviewed,us,us
+2015-11-28T16:44:01.900Z,-9.3754,115.0527,66.56,4.2,mb,,46,1.265,0.99,us,us100042qd,2016-02-25T22:32:59.040Z,"65 km S of Jimbaran, Indonesia",earthquake,9.6,8.2,0.136,15,reviewed,us,us
+2015-11-25T01:55:54.010Z,-9.4941,115.0715,63.7,3.9,mb,,75,1.363,0.64,us,us10004146,2022-08-01T20:05:07.714Z,"78 km S of Jimbaran, Indonesia",earthquake,8.1,7.5,0.155,11,reviewed,us,us
+2015-10-09T06:31:02.750Z,-8.3921,114.9334,10,4.2,mb,,65,0.776,0.69,us,us10003p53,2016-01-11T21:07:16.040Z,"21 km SW of Munduk, Indonesia",earthquake,3.8,1.9,0.147,13,reviewed,us,us
+2015-09-16T21:52:46.530Z,-9.2709,116.2024,57.38,4.1,mb,,77,2.176,1.11,us,us10003it4,2015-12-12T00:42:57.040Z,"61 km SSE of Lembar, Indonesia",earthquake,8.4,8,0.145,13,reviewed,us,us
+2015-08-22T18:42:34.610Z,-7.7868,115.9479,263.48,4.2,mb,,61,1.903,1,us,us20003gh1,2015-11-24T02:09:29.040Z,"64 km NNW of Gili Air, Indonesia",earthquake,9.8,7.5,0.103,26,reviewed,us,us
+2015-07-15T17:42:10.070Z,-8.6629,116.0564,126.47,4,mb,,142,1.893,0.48,us,us10002xx4,2015-10-09T20:19:19.040Z,"7 km NNW of Lembar, Indonesia",earthquake,10.1,9,0.196,7,reviewed,us,us
+2015-07-14T02:24:22.400Z,-9.0071,114.0318,43.68,4.1,mb,,108,0.546,0.75,us,us10002xv1,2015-10-09T20:19:16.040Z,"68 km S of Gambiran Satu, Indonesia",earthquake,7.8,12.3,0.185,8,reviewed,us,us
+2015-07-12T15:22:18.100Z,-8.6391,116.2298,112.47,4.6,mb,,42,2.061,0.78,us,us20002wy9,2022-07-31T18:03:00.188Z,"8 km NNW of Praya, Indonesia",earthquake,8,5.7,0.084,42,reviewed,us,us
+2015-07-05T07:34:44.170Z,-8.2434,113.9908,165.81,4.4,mb,,44,0.276,0.96,us,us10002nhz,2015-09-30T00:20:56.040Z,"22 km NW of Genteng, Indonesia",earthquake,7.6,4.4,0.138,15,reviewed,us,us
+2015-06-28T11:37:41.010Z,-8.3761,116.035,10,4.3,mb,,68,1.865,0.54,us,us10002m94,2022-07-31T15:47:18.605Z,"5 km WSW of Gili Air, Indonesia",earthquake,6.5,1.8,0.122,19,reviewed,us,us
+2015-05-04T10:21:23.040Z,-8.2622,116.0729,8.35,4.4,mb,,43,1.911,1.25,us,us20002b5a,2022-07-31T04:15:09.893Z,"10 km N of Gili Air, Indonesia",earthquake,6.3,3.9,0.112,23,reviewed,us,us
+2015-04-11T10:32:50.430Z,-9.0232,114.0849,81.8,4.2,mb,,71,0.553,0.84,us,us200025u0,2015-06-22T23:18:56.040Z,"69 km S of Gambiran Satu, Indonesia",earthquake,7.6,5,0.132,16,reviewed,us,us
+2015-03-26T11:04:35.850Z,-8.2116,114.6149,31.73,4.3,mb,,55,0.525,0.93,us,us10001sd8,2015-06-12T01:53:22.040Z,"16 km N of Negara, Indonesia",earthquake,6.4,7.4,0.137,15,reviewed,us,us
+2015-02-21T12:21:00.990Z,-9.1607,115.2133,103.56,4.1,mb,,119,1.253,1.06,us,usc000tt25,2022-07-28T03:05:35.927Z,"39 km S of Nusa Dua, Indonesia",earthquake,6.3,10.9,0.262,5,reviewed,us,us
+2015-02-19T17:21:25.900Z,-8.976,114.9741,87.09,3.8,mb,,147,0.955,0.72,us,usc000trq2,2022-07-27T22:15:21.632Z,"28 km SW of Jimbaran, Indonesia",earthquake,10.9,11.2,0.192,7,reviewed,us,us
+2015-01-27T03:58:41.780Z,-8.0368,114.1688,199.98,4.3,mb,,71,0.43,0.67,us,usb000tiir,2015-04-24T16:54:36.040Z,"26 km W of Wongsorejo, Indonesia",earthquake,11.1,7,0.143,15,reviewed,us,us
+2014-12-28T11:58:21.300Z,-8.7342,115.7739,118.04,4.3,mb,,72,1.625,1.08,us,usc000tae6,2022-07-27T11:56:32.014Z,"33 km W of Lembar, Indonesia",earthquake,9,8.8,0.119,20,reviewed,us,us
+2014-12-20T19:30:44.350Z,-8.9101,115.3671,49.63,4,mb,,95,1.278,0.77,us,usc000tcry,2015-03-06T02:59:06.040Z,"19 km SE of Nusa Dua, Indonesia",earthquake,8.8,16.3,0.211,7,reviewed,us,us
+2014-10-16T12:22:22.130Z,-7.4744,115.4361,306.96,4.4,mb,,27,1.611,0.9,us,usb000smu1,2015-01-15T20:03:27.040Z,"80 km NNE of Singaraja, Indonesia",earthquake,8,3.9,0.11,27,reviewed,us,us
+2014-10-02T19:46:04.280Z,-9.0761,115.9067,49.76,4.1,mb,,102,1.835,0.66,us,usb000sm0i,2014-12-23T01:41:58.040Z,"42 km SSW of Lembar, Indonesia",earthquake,10,7.7,0.145,15,reviewed,us,us
+2014-09-22T21:05:01.090Z,-8.3405,115.7225,185.51,4.7,mb,,28,1.559,0.85,us,usb000sf2v,2022-07-27T02:40:50.569Z,"16 km NE of Amlapura, Indonesia",earthquake,6,5.3,0.061,86,reviewed,us,us
+2014-09-17T16:41:32.630Z,-8.3498,116.0525,26.28,4.1,mb,,60,1.884,0.9,us,usb000sge4,2014-12-19T00:05:19.040Z,"3 km WNW of Gili Air, Indonesia",earthquake,7.7,5.7,0.14,16,reviewed,us,us
+2014-09-07T17:54:56.480Z,-9.3303,116.0065,96.2,4.1,mb,,148,2.021,0.78,us,usb000sdi8,2014-12-05T23:36:38.040Z,"67 km S of Lembar, Indonesia",earthquake,6,12.7,0.213,7,reviewed,us,us
+2014-08-23T15:58:43.290Z,-9.4123,114.5547,50.46,4.1,mb,,104,1.017,1.41,us,usc000s8jz,2014-11-22T02:06:29.000Z,"95 km SW of Jimbaran, Indonesia",earthquake,7.7,10.5,0.158,11,reviewed,us,us
+2014-08-21T10:22:11.880Z,-8.358,116.1396,26.39,4.5,mb,,67,1.969,1.05,us,usb000s58v,2014-11-22T02:06:24.000Z,"6 km E of Gili Air, Indonesia",earthquake,7.3,6.4,0.135,18,reviewed,us,us
+2014-07-24T14:49:48.070Z,-8.9892,115.5406,84.37,4,mb,,70,1.466,1.48,us,usb000rx2g,2014-10-25T01:49:34.000Z,"39 km ESE of Nusa Dua, Indonesia",earthquake,,7.7,0.144,16,reviewed,us,us
+2014-07-07T01:24:20.710Z,-8.4135,114.6423,124.77,4,mb,,127,0.488,0.8,us,usb000rv3w,2014-10-04T19:59:58.000Z,"6 km SSE of Negara, Indonesia",earthquake,,5.6,0.172,9,reviewed,us,us
+2014-05-28T22:23:36.300Z,-9.0501,114.2199,82.03,4.1,mb,,80,0.58,1.07,us,usc000rf6e,2014-08-26T01:21:02.000Z,"69 km S of Muncar, Indonesia",earthquake,,3.6,0.145,15,reviewed,us,us
+2014-03-09T00:49:57.220Z,-9.3083,115.2523,40.93,4.2,mb,,78,1.369,1.48,us,usc000n5pm,2014-05-15T02:23:47.000Z,"56 km S of Nusa Dua, Indonesia",earthquake,,7.4,0.11,25,reviewed,us,us
+2013-10-03T23:21:48.540Z,-7.8973,115.9191,252.22,4.4,mb,,53,1.839,1.23,us,usb000k5yi,2013-12-19T02:51:34.000Z,"54 km NNW of Gili Air, Indonesia",earthquake,,7.6,0.126,,reviewed,us,us
+2013-08-09T09:10:43.690Z,-8.5478,116.255,187.86,4.4,mb,,118,2.081,1.23,us,usb000izf4,2013-10-12T21:32:32.000Z,"15 km ENE of Mataram, Indonesia",earthquake,,13.7,0.203,,reviewed,us,us
+2013-06-22T05:42:39.820Z,-8.305,116.058,46.5,5.1,mb,151,28,,1.17,us,usc000hxxs,2022-07-25T17:05:16.901Z,"6 km NNW of Gili Air, Indonesia",earthquake,,4.9,,71,reviewed,us,us
+2013-06-17T19:17:58.790Z,-7.763,115.856,260.1,5,mb,211,27,,0.82,us,usc000hszh,2025-12-22T16:40:58.812Z,"70 km NNW of Gili Air, Indonesia",earthquake,,4.5,,101,reviewed,us,us
+2013-05-21T04:24:35.720Z,-9.052,115.726,100.9,4.1,mb,18,96,,1.1,us,usp000k0uv,2014-11-07T01:50:52.119Z,"52 km SW of Lembar, Indonesia",earthquake,,9.9,,5,reviewed,us,us
+2013-04-02T05:26:07.810Z,-7.565,115.081,17.1,4.6,mb,36,46,,1.2,us,usb000fxyi,2014-11-07T01:50:28.981Z,"60 km N of Singaraja, Indonesia",earthquake,,5,,12,reviewed,us,us
+2013-02-15T10:42:51.800Z,-8.683,116.373,125.3,4.4,mb,67,51.9,,1.28,us,usc000f7s4,2014-11-07T01:50:07.925Z,"11 km ENE of Praya, Indonesia",earthquake,,6.2,,25,reviewed,us,us
+2013-01-11T07:47:44.830Z,-9.275,115.063,59.1,4.3,mb,51,103.1,,1.12,us,usp000jy7q,2015-03-24T01:37:22.520Z,"54 km SSW of Jimbaran, Indonesia",earthquake,,8.9,,7,reviewed,us,us
+2012-11-22T09:09:32.310Z,-8.918,115.124,78.5,5,mb,226,23.1,,1,us,usp000jvy4,2015-03-24T01:48:33.028Z,"14 km SSW of Jimbaran, Indonesia",earthquake,,3.7,,45,reviewed,us,us
+2012-10-11T12:21:52.260Z,-7.234,115.879,10,4.4,mb,41,47.2,,0.97,us,usp000jtv9,2014-11-07T01:49:04.537Z,"126 km N of Gili Air, Indonesia",earthquake,,,,10,reviewed,us,us
+2012-10-08T13:18:29.420Z,-8.66,116.096,47.9,4.2,mb,20,110.8,,1.41,us,usp000jtra,2014-11-07T01:49:03.940Z,"7 km NNE of Lembar, Indonesia",earthquake,,15.6,,7,reviewed,us,us
+2012-08-18T06:55:39.970Z,-9.137,114.198,90.7,4.3,mb,67,59.2,,1.04,us,usp000jqeu,2014-11-07T01:48:35.365Z,"79 km S of Muncar, Indonesia",earthquake,,5.3,,13,reviewed,us,us
+2012-08-09T11:04:24.900Z,-8.718,116.363,107.2,5.3,mb,409,29,,0.9,us,usp000jq38,2025-12-22T16:31:58.487Z,"10 km E of Praya, Indonesia",earthquake,,3.4,,81,reviewed,us,us
+2012-02-21T10:46:54.550Z,-7.956,116.17,259.9,4.6,mb,37,77.6,,1.1,us,usp000jf66,2014-11-07T01:47:03.042Z,"45 km NNE of Gili Air, Indonesia",earthquake,,7,,15,reviewed,us,us
+2011-11-04T14:59:53.640Z,-8.808,115.758,98.1,5,mb,79,28.2,,0.95,us,usp000jaax,2015-03-24T01:44:27.664Z,"35 km WSW of Lembar, Indonesia",earthquake,,,,22,reviewed,us,us
+2011-10-13T07:52:45.370Z,-9.43,114.527,35,4.9,mwc,180,27,,1.17,us,usp000j99r,2015-03-24T02:00:02.049Z,"99 km SW of Jimbaran, Indonesia",earthquake,,,,,reviewed,us,gcmt
+2011-10-13T03:16:30.160Z,-9.35,114.587,39,6.1,mww,456,18.4,,1.07,us,usp000j99g,2022-04-08T22:07:54.730Z,"88 km SW of Jimbaran, Indonesia",earthquake,,,,,reviewed,us,us
+2011-03-31T23:02:37.780Z,-7.76,115.335,10,4.2,mb,13,100.8,,1,us,usp000hz16,2014-11-07T01:44:23.116Z,"47 km NE of Singaraja, Indonesia",earthquake,,,,3,reviewed,us,us
+2011-03-20T16:29:23.430Z,-8.402,115.022,24.4,4.3,mb,38,37.7,,1.47,us,usp000hy2p,2022-07-19T09:29:18.331Z,"16 km SSW of Munduk, Indonesia",earthquake,,12.7,,9,reviewed,us,us
+2011-03-11T15:33:02.960Z,-8.263,115.304,190.7,4.9,mb,25,50.1,,1.3,us,usp000hvy8,2014-11-07T01:43:57.912Z,"24 km E of Munduk, Indonesia",earthquake,,8.2,,1,reviewed,us,us
+2011-02-26T05:06:29.390Z,-8.425,115.151,172.2,4.6,mb,22,48.2,,0.94,us,usp000hv35,2014-11-07T01:43:44.009Z,"13 km NNE of Tabanan, Indonesia",earthquake,,6.2,,6,reviewed,us,us
+2010-11-11T08:06:57.160Z,-8.306,116.093,35,4,mb,9,104.4,,0.67,us,usp000hpdc,2014-11-07T01:42:53.827Z,"5 km NNE of Gili Air, Indonesia",earthquake,,,,2,reviewed,us,us
+2010-11-11T08:05:40.970Z,-8.282,116.044,20.8,4.2,mb,10,118.6,,0.88,us,usp000hpdb,2014-11-07T01:42:53.825Z,"9 km NNW of Gili Air, Indonesia",earthquake,,27.4,,3,reviewed,us,us
+2010-11-02T13:40:12.910Z,-9.672,115.512,73.8,3.7,mb,17,119.1,,1.5,us,usp000hnwy,2014-11-07T01:42:50.218Z,"101 km SSE of Nusa Dua, Indonesia",earthquake,,11,,1,reviewed,us,us
+2009-09-19T02:40:12.050Z,-9.214,115.685,84,4.2,mb,52,41.1,,1.06,us,usp000h1nd,2022-07-15T17:48:30.406Z,"67 km SE of Nusa Dua, Indonesia",earthquake,,6.4,,14,reviewed,us,us
+2009-09-18T23:06:57.720Z,-9.138,115.593,79,5.7,mwc,375,24,,1.09,us,usp000h1n7,2023-03-15T22:25:22.483Z,"54 km SE of Nusa Dua, Indonesia",earthquake,,4.8,,,reviewed,us,us
+2009-07-10T09:02:33.330Z,-7.829,115.915,249.3,4.3,mb,25,90.1,,0.7,us,usp000gz3d,2014-11-07T01:39:18.635Z,"61 km NNW of Gili Air, Indonesia",earthquake,,9.6,,3,reviewed,us,us
+2008-11-14T11:37:14.820Z,-8.014,115.283,35,3.8,mb,6,197.2,,0.51,us,usp000gnp2,2014-11-07T01:37:44.176Z,"24 km ENE of Singaraja, Indonesia",earthquake,,,,1,reviewed,us,us
+2008-10-28T17:41:37.780Z,-8.433,116.245,55.8,4.8,mb,9,156.4,,0.38,us,usp000gm80,2014-11-07T01:37:33.181Z,"16 km ESE of Pemenang, Indonesia",earthquake,,25.9,,2,reviewed,us,us
+2008-07-30T05:54:41.460Z,-7.804,116.321,307.5,4.2,mb,15,108.9,,0.75,us,usp000gdeu,2014-11-07T01:36:44.197Z,"66 km NNE of Gili Air, Indonesia",earthquake,,15.6,,3,reviewed,us,us
+2008-06-06T18:57:21.150Z,-9.532,115.924,46.2,4.7,mb,22,154.3,,0.77,us,usp000g8r3,2014-11-07T01:36:15.539Z,"90 km S of Lembar, Indonesia",earthquake,,14.5,,9,reviewed,us,us
+2008-05-11T23:05:59.600Z,-8.538,115.606,183,4.1,mb,39,74.1,,0.73,us,usp000g64h,2014-11-07T01:35:56.479Z,"9 km S of Bedugul, Indonesia",earthquake,,9.2,,12,reviewed,us,us
+2008-05-11T17:08:47.190Z,-7.942,115.02,35,3.5,mb,6,346.9,,0.25,us,usp000g63r,2014-11-07T01:35:56.382Z,"20 km NNW of Singaraja, Indonesia",earthquake,,,,1,reviewed,us,us
+2008-05-01T15:17:44.560Z,-8.642,114.335,185.7,4,mb,9,177.8,,1.43,us,usp000g58q,2014-11-07T01:35:48.591Z,"23 km S of Muncar, Indonesia",earthquake,,21.9,,3,reviewed,us,us
+2008-03-28T13:00:11.620Z,-7.916,115.58,242.8,4.6,mb,53,89.6,,0.79,us,usp000g2j7,2014-11-07T01:35:20.195Z,"58 km ENE of Singaraja, Indonesia",earthquake,,7.2,,29,reviewed,us,us
+2008-02-08T14:53:05.840Z,-7.825,115.584,246.1,4.7,mb,33,71.5,,0.81,us,usp000fyf3,2014-11-07T01:34:55.008Z,"63 km ENE of Singaraja, Indonesia",earthquake,,10.9,,9,reviewed,us,us
+2008-01-10T17:47:00.490Z,-9.239,114.636,77.5,3.8,mb,11,175.7,,0.64,us,usp000fwdq,2014-11-07T01:34:40.050Z,"76 km SW of Jimbaran, Indonesia",earthquake,,18,,1,reviewed,us,us
+2007-12-31T09:36:05.040Z,-9.138,114.399,35.6,4.9,mb,61,43,,1.54,us,usp000fvq7,2022-07-13T23:25:50.827Z,"78 km S of Muncar, Indonesia",earthquake,,14.2,,15,reviewed,us,us
+2007-12-31T02:31:59.040Z,-9.046,115.778,77,4,mb,13,130.6,,0.58,us,usp000fvpq,2014-11-07T01:34:31.358Z,"48 km SW of Lembar, Indonesia",earthquake,,,,1,reviewed,us,us
+2007-12-03T04:02:14.580Z,-9.15,114.112,98.6,4.4,mb,10,144.8,,0.81,us,usp000ftrx,2014-11-07T01:34:20.541Z,"82 km SSW of Muncar, Indonesia",earthquake,,,,1,reviewed,us,us
+2007-11-28T12:40:38.330Z,-8.287,114.563,10,4.1,mb,6,170.7,,1.17,us,usp000ftfc,2014-11-07T01:34:15.703Z,"9 km NW of Negara, Indonesia",earthquake,,,,2,reviewed,us,us
+2007-10-16T08:22:08.310Z,-9.015,114.568,35,4.2,mb,8,254.5,,1.22,us,usp000fqp0,2014-11-07T01:33:56.472Z,"69 km SSE of Muncar, Indonesia",earthquake,,,,2,reviewed,us,us
+2007-10-08T22:02:02.810Z,-8.143,115.803,193.9,4.2,mb,20,42.8,,0.93,us,usp000fq5d,2014-11-07T01:33:52.310Z,"38 km NW of Gili Air, Indonesia",earthquake,,14.2,,6,reviewed,us,us
+2007-09-15T15:56:58.100Z,-9.321,115.433,35,4.4,mb,27,72.3,,1.36,us,usp000fnc2,2014-11-07T01:33:35.603Z,"61 km SSE of Nusa Dua, Indonesia",earthquake,,,,4,reviewed,us,us
+2007-09-09T23:31:54.910Z,-7.998,114.303,10,4.4,mb,24,67.5,,1.35,us,usp000fmta,2014-11-07T01:33:32.264Z,"10 km W of Wongsorejo, Indonesia",earthquake,,,,5,reviewed,us,us
+2007-09-09T18:36:37.610Z,-7.783,114.338,35,4.9,mwc,47,46.7,,1.34,us,usp000fmst,2020-09-18T21:45:42.559Z,"24 km NNW of Wongsorejo, Indonesia",earthquake,,,,,reviewed,us,gcmt
+2007-08-25T12:50:52.020Z,-8.903,114.867,37.9,3.8,ml,5,222.9,,0.6,us,usp000fkp1,2014-11-07T01:33:22.719Z,"34 km WSW of Jimbaran, Indonesia",earthquake,,48.4,,,reviewed,us,dja
+2007-04-19T15:30:46.890Z,-8.232,115.684,35,3.8,mb,8,307.9,,0.67,us,usp000fa2f,2014-11-07T01:32:13.579Z,"25 km NNE of Amlapura, Indonesia",earthquake,,,,2,reviewed,us,us
+2007-03-08T02:47:09.080Z,-8.57,114.564,57.3,4,mb,8,175.6,,0.44,us,usp000f6ab,2014-11-07T01:31:49.931Z,"24 km SSW of Negara, Indonesia",earthquake,,37.7,,3,reviewed,us,us
+2006-12-25T18:24:36.050Z,-7.807,115.849,249.5,4.2,mb,32,42.6,,0.76,us,usp000f0za,2014-11-07T01:31:11.453Z,"66 km NNW of Gili Air, Indonesia",earthquake,,14.7,,7,reviewed,us,us
+2006-12-16T00:10:57.160Z,-8.615,114.411,35,4.3,mb,9,161.4,,0.81,us,usp000f09z,2014-11-07T01:31:08.787Z,"21 km SSE of Muncar, Indonesia",earthquake,,,,1,reviewed,us,us
+2006-11-09T07:07:36.360Z,-8.83,115.06,80,4.5,mb,19,93.4,,,us,usp000ewz2,2014-11-07T01:30:47.100Z,"11 km WSW of Jimbaran, Indonesia",earthquake,,,,2,reviewed,dja,us
+2006-07-18T08:49:05.240Z,-7.464,115.438,317.2,4.4,mb,9,196.9,,0.13,us,usp000enzc,2014-11-07T01:29:42.639Z,"Bali Sea",earthquake,,54.5,,2,reviewed,us,us
+2006-06-25T16:36:52.380Z,-9.642,114.746,40,4,mb,12,168.9,,0.75,us,usp000em93,2014-11-07T01:29:28.034Z,"104 km SSW of Jimbaran, Indonesia",earthquake,,0,,1,reviewed,us,us
+2006-06-23T06:56:58.520Z,-8.991,116.329,16.3,4.1,mb,11,100.5,,0.73,us,usp000em20,2014-11-07T01:29:26.537Z,"32 km SSE of Praya, Indonesia",earthquake,,55.8,,1,reviewed,us,us
+2006-05-19T23:35:41.290Z,-7.666,115.719,332.5,3.2,mb,7,196.1,,0.97,us,usp000ehh9,2014-11-07T01:29:08.869Z,"85 km NE of Singaraja, Indonesia",earthquake,,68.6,,2,reviewed,us,us
+2006-04-26T08:35:46.200Z,-8.899,116.176,37.4,4.2,mb,14,136.2,,0.62,us,usp000efhx,2014-11-07T01:28:55.190Z,"22 km SSE of Lembar, Indonesia",earthquake,,16.1,,2,reviewed,us,us
+2006-03-04T10:28:15.200Z,-8.056,116.368,219.5,3.9,mb,8,154,,0.83,us,usp000ebcp,2014-11-07T01:28:28.253Z,"45 km NE of Gili Air, Indonesia",earthquake,,41.5,,2,reviewed,us,us
+2006-02-18T10:20:24.690Z,-8.528,115.776,10,3.7,mb,6,171.2,,0.26,us,usp000ea9p,2014-11-07T01:28:19.882Z,"19 km ESE of Amlapura, Indonesia",earthquake,,0,,1,reviewed,us,us
+2005-11-26T02:38:24.330Z,-7.807,115.844,262.7,4.1,mb,30,102.6,,1.18,us,usp000e4x2,2014-11-07T01:27:43.482Z,"66 km NNW of Gili Air, Indonesia",earthquake,,17.2,,8,reviewed,us,us
+2005-11-25T00:10:54.030Z,-8.712,115.512,10,4.1,mb,10,130.8,,1.36,us,usp000e4um,2014-11-07T01:27:43.142Z,"23 km SSE of Klungkung, Indonesia",earthquake,,0,,2,reviewed,us,us
+2005-10-02T17:02:46.230Z,-8.245,116.415,15,4.5,mb,17,119.8,,1.16,us,usp000e0rh,2014-11-07T01:27:15.843Z,"38 km ENE of Pemenang, Indonesia",earthquake,,0,,2,reviewed,us,us
+2005-07-10T20:50:13.060Z,-7.189,115.596,382,4.2,mb,32,85.2,,0.72,us,usp000duy6,2014-11-07T01:26:28.324Z,"Bali Sea",earthquake,,10.9,,12,reviewed,us,us
+2005-04-04T01:02:18.200Z,-9.519,115.292,33,3.8,ml,4,284.6,,,us,usp000dm5w,2014-11-07T01:25:28.908Z,"79 km S of Nusa Dua, Indonesia",earthquake,,,,,reviewed,dja,dja
+2005-03-19T10:40:10.260Z,-8.875,116.099,228.8,3.9,mb,10,173.3,,0.85,us,usp000djj3,2014-11-07T01:25:16.439Z,"16 km S of Lembar, Indonesia",earthquake,,29.5,,4,reviewed,us,us
+2005-03-11T05:09:57.690Z,-9.104,115.675,87.4,4.4,mb,19,78.7,,0.85,us,usp000dhyz,2014-11-07T01:25:13.247Z,"59 km SE of Nusa Dua, Indonesia",earthquake,,8,,3,reviewed,us,us
+2005-03-02T01:49:10.460Z,-9.616,115.262,30,4.2,mb,16,80.1,,0.61,us,usp000dhb2,2014-11-07T01:25:09.115Z,"90 km S of Nusa Dua, Indonesia",earthquake,,,,2,reviewed,us,us
+2005-03-01T01:46:09.990Z,-8.44,115.647,10,4.4,mb,15,113.3,,1.27,us,usp000dh89,2014-11-07T01:25:07.618Z,"3 km ENE of Amlapura, Indonesia",earthquake,,,,5,reviewed,us,us
+2005-02-15T14:00:04.270Z,-8.688,114.774,37.4,4.3,mb,9,120.6,,1.1,us,usp000dg71,2014-11-07T01:24:59.979Z,"40 km SSE of Negara, Indonesia",earthquake,,33.7,,1,reviewed,us,us
+2005-02-09T01:15:38.420Z,-8.866,115.74,30,4.3,mb,17,130.9,,0.94,us,usp000dfrd,2014-11-07T01:24:57.483Z,"39 km WSW of Lembar, Indonesia",earthquake,,,,5,reviewed,us,us
+2005-02-06T14:27:54.320Z,-8.412,116.456,15,4.3,mb,11,157.1,,0.88,us,usp000dfmd,2014-11-07T01:24:56.788Z,"25 km WNW of Labuan Lombok, Indonesia",earthquake,,0,,2,reviewed,us,us
+2005-02-02T14:00:49.260Z,-8.942,116.382,117.3,4.8,mb,35,61.3,,1.17,us,usp000dfdm,2014-11-07T01:24:54.808Z,"28 km SSE of Praya, Indonesia",earthquake,,6.2,,26,reviewed,us,us
+2004-09-15T08:35:10.840Z,-8.773,115.357,98.4,5.4,mwc,157,23.3,,1.08,us,usp000d4an,2025-12-19T23:16:18.929Z,"13 km ENE of Nusa Dua, Indonesia",earthquake,,3.6,,,reviewed,us,hrv
+2004-09-12T12:48:27.010Z,-8.14,114.125,19.2,4.3,mb,14,199.1,,0.85,us,usp000d44v,2014-11-07T01:23:28.272Z,"22 km NNW of Singojuruh, Indonesia",earthquake,,11.4,,3,reviewed,us,us
+2004-08-31T00:06:19.900Z,-8.588,115.639,33,4.1,ml,4,180.6,,,us,usp000d389,2014-11-07T01:23:18.015Z,"15 km S of Amlapura, Indonesia",earthquake,,,,,reviewed,dja,dja
+2004-08-17T15:55:53.100Z,-8.073,115.492,33,3.3,ml,4,183,,,us,usp000d2b1,2014-11-07T01:23:13.615Z,"43 km NNW of Bedugul, Indonesia",earthquake,,,,,reviewed,dja,dja
+2004-07-08T12:31:32.470Z,-9.5,114.649,75,4.3,mb,10,195.2,,1.25,us,usp000czs9,2014-11-07T01:22:52.051Z,"96 km SW of Jimbaran, Indonesia",earthquake,,,,2,reviewed,us,us
+2004-05-23T13:12:28.300Z,-8.175,114.491,33,4.3,ml,4,264.8,,,us,usp000cvzr,2014-11-07T01:22:23.212Z,"16 km ENE of Banyuwangi, Indonesia",earthquake,,,,,reviewed,dja,dja
+2004-05-22T17:24:33.200Z,-9.606,115.071,22.8,3.6,ml,4,305.1,,,us,usp000cvx1,2014-11-07T01:22:22.793Z,"90 km S of Jimbaran, Indonesia",earthquake,,,,,reviewed,dja,dja
+2004-05-11T14:47:18.550Z,-9.656,115.682,65.5,4.5,mb,22,124.3,,0.59,us,usp000curt,2014-11-07T01:22:17.314Z,"106 km SSE of Nusa Dua, Indonesia",earthquake,,6.1,,5,reviewed,us,us
+2004-05-09T01:12:54.500Z,-9.735,115.236,33,3.6,ml,4,307.8,,,us,usp000cugx,2014-11-07T01:22:16.122Z,"103 km S of Nusa Dua, Indonesia",earthquake,,,,,reviewed,dja,dja
+2004-05-05T02:20:47.340Z,-9.033,114.448,80.8,5,mb,59,63.9,,0.86,us,usp000cu6v,2014-11-07T01:22:14.787Z,"67 km S of Muncar, Indonesia",earthquake,,,,15,reviewed,us,us
+2004-04-26T16:13:19.510Z,-8.598,114.7,106.7,4.7,mb,39,65.8,,0.93,us,usp000ctg1,2014-11-07T01:22:06.504Z,"28 km SSE of Negara, Indonesia",earthquake,,18.1,,11,reviewed,us,us
+2004-04-26T16:05:45.500Z,-8.663,114.633,107.4,4.9,mwc,83,27.9,,1.14,us,usp000ctfz,2016-11-10T00:32:35.307Z,"33 km S of Negara, Indonesia",earthquake,,4.5,,,reviewed,us,hrv
+2004-04-16T18:32:24.010Z,-8.669,114.65,95.5,5.5,mwc,208,35.6,,1.03,us,usp000csp7,2025-12-19T23:12:16.445Z,"34 km S of Negara, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-04-11T22:26:34.100Z,-8.413,115.843,21.5,3.6,ml,4,194.2,,,us,usp000cs9m,2014-11-07T01:21:57.880Z,"23 km WNW of Senggigi, Indonesia",earthquake,,,,,reviewed,dja,dja
+2004-04-07T04:01:23.000Z,-9.699,114.883,33,3.9,ml,4,309.8,,,us,usp000crwc,2014-11-07T01:21:55.538Z,"104 km SSW of Jimbaran, Indonesia",earthquake,,,,,reviewed,dja,dja
+2004-03-25T00:29:46.660Z,-8.96,114.243,91.6,4.3,mb,16,119.7,,0.99,us,usp000cqty,2014-11-07T01:21:46.741Z,"59 km S of Muncar, Indonesia",earthquake,,13,,3,reviewed,us,us
+2004-03-20T17:42:26.000Z,-8.236,115.206,15,3.6,ml,4,164.5,,,us,usp000cqfj,2014-11-07T01:21:45.180Z,"14 km ENE of Munduk, Indonesia",earthquake,,,,,reviewed,dja,dja
+2004-03-04T13:40:16.380Z,-8.23,115.616,9,4.7,mb,8,105.2,,1.87,us,usp000cp2g,2014-11-07T01:21:38.181Z,"24 km N of Amlapura city, Indonesia",earthquake,,13.9,,3,reviewed,us,us
+2004-03-01T23:48:49.790Z,-8.569,115.379,104.3,4.6,mb,15,100.5,,0.56,us,usp000cnvc,2014-11-07T01:21:35.959Z,"4 km SSW of Klungkung, Indonesia",earthquake,,25.9,,7,reviewed,us,us
+2004-02-19T05:25:46.200Z,-7.804,115.368,222.1,4.3,mb,16,131.9,,0.49,us,usp000cmjb,2014-11-07T01:21:22.797Z,"45 km NE of Singaraja, Indonesia",earthquake,,18.4,,6,reviewed,us,us
+2004-01-14T06:25:15.300Z,-7.852,115.886,255.2,4.7,mb,15,143.7,,1.07,us,usp000chvd,2014-11-07T01:21:04.050Z,"59 km NNW of Gili Air, Indonesia",earthquake,,27.8,,7,reviewed,us,us
+2004-01-01T20:59:31.910Z,-8.31,115.788,44.5,5.8,mwb,119,40,,1.01,us,usp000cgss,2022-05-02T16:58:07.761Z,"24 km NE of Amlapura, Indonesia",earthquake,,5,,,reviewed,us,us
+2003-12-17T17:03:55.330Z,-8.208,114.025,33,4.1,mb,8,178.3,,0.82,us,usp000cff1,2014-11-07T01:20:46.389Z,"22 km NW of Genteng, Indonesia",earthquake,,,,1,reviewed,us,us
+2003-04-18T01:18:30.690Z,-8.671,114.816,111.5,4.6,md,9,187.8,,0.54,us,usp000bvdz,2014-11-07T01:18:21.787Z,"36 km WSW of Tabanan, Indonesia",earthquake,,5.6,,,reviewed,us,dja
+2003-04-14T11:51:18.290Z,-9.031,115.441,86.6,4.6,mb,8,174.1,,1.05,us,usp000bv5s,2014-11-07T01:18:20.521Z,"34 km SE of Nusa Dua, Indonesia",earthquake,,7.7,,1,reviewed,us,us
+2003-03-09T12:26:59.400Z,-8.962,114.556,15,3.6,ml,4,278.7,,,us,usp000bs9e,2014-11-07T01:18:02.598Z,"63 km SSE of Muncar, Indonesia",earthquake,,,,,reviewed,dja,dja
+2003-02-24T10:39:43.350Z,-7.27,114.521,48.4,5.2,mwc,64,,,1.22,us,usp000brcs,2022-05-02T16:26:15.151Z,"68 km ESE of Kalianget, Indonesia",earthquake,,7.9,,,reviewed,us,hrv
+2002-12-25T15:15:37.930Z,-8.17,114.026,151.7,4.1,mb,9,,,0.18,us,usp000bmdd,2014-11-07T01:17:25.839Z,"25 km NNW of Genteng, Indonesia",earthquake,,7,,1,reviewed,us,us
+2002-10-27T10:01:36.900Z,-9.526,115.361,15,3.4,ml,4,,,,us,usp000bffs,2014-11-07T01:16:49.480Z,"81 km S of Nusa Dua, Indonesia",earthquake,,,,,reviewed,dja,dja
+2002-10-03T19:05:10.670Z,-7.526,115.663,315.8,6,mwc,359,,,0.89,us,usp000bdr7,2022-05-02T16:10:29.479Z,"90 km NE of Singaraja, Indonesia",earthquake,,,,,reviewed,us,hrv
+2002-09-14T13:27:11.780Z,-8.688,114.947,111.4,4,mb,9,,,1.1,us,usp000bc7w,2014-11-07T01:16:30.992Z,"24 km W of Legian, Indonesia",earthquake,,7.2,,1,reviewed,us,us
+2002-06-10T16:34:27.330Z,-9.329,115.496,75.5,4.4,mb,33,,,1.03,us,usp000b5wv,2014-11-07T01:15:48.492Z,"65 km SSE of Nusa Dua, Indonesia",earthquake,,,,11,reviewed,us,us
+2002-05-28T21:53:04.650Z,-9.102,114.521,33,4.1,mb,15,,,1.15,us,usp000b552,2014-11-07T01:15:41.006Z,"76 km SSE of Muncar, Indonesia",earthquake,,,,2,reviewed,us,us
+2002-05-08T01:42:50.830Z,-8.825,115.847,132.4,4.3,mb,25,,,0.75,us,usp000b3xk,2014-11-07T01:15:35.570Z,"27 km WSW of Lembar, Indonesia",earthquake,,3.7,,3,reviewed,us,us
+2002-04-14T17:00:23.600Z,-8.84,114.977,33,4,ml,4,,,,us,usp000b2da,2014-11-07T01:15:25.288Z,"20 km WSW of Jimbaran, Indonesia",earthquake,,,,,reviewed,dja,dja
+2002-04-04T07:58:59.100Z,-8.284,115.62,2,3,ml,4,,,,us,usp000b1pt,2014-11-07T01:15:20.927Z,"18 km N of Amlapura city, Indonesia",earthquake,,,,,reviewed,dja,dja
+2002-03-27T08:42:02.500Z,-9.437,115.851,2,3.9,ml,4,,,,us,usp000b15k,2014-11-07T01:15:14.600Z,"82 km SSW of Lembar, Indonesia",earthquake,,,,,reviewed,dja,dja
+2002-03-06T03:37:11.500Z,-9.518,115.211,15,3.8,ml,4,,,,us,usp000azs1,2014-11-07T01:15:05.304Z,"79 km S of Nusa Dua, Indonesia",earthquake,,,,,reviewed,dja,dja
+2001-06-08T20:08:06.460Z,-9.14,114.387,33,3.8,mb,7,,,0.56,us,usp000ag9e,2014-11-07T01:13:00.670Z,"78 km S of Muncar, Indonesia",earthquake,,,,1,reviewed,us,us
+2001-06-01T04:39:55.630Z,-8.429,115.951,33,4.3,mb,14,,,1.21,us,usp000afv4,2014-11-07T01:12:54.393Z,"12 km NW of Senggigi, Indonesia",earthquake,,,,2,reviewed,us,us
+2000-11-18T20:42:32.330Z,-7.727,114.08,33,3.5,mb,7,,,0.75,us,usp000a4ag,2014-11-07T01:11:31.507Z,"2 km W of Panji, Indonesia",earthquake,,,,1,reviewed,us,us
+2000-02-01T12:39:41.380Z,-8.906,116.27,80.3,4.9,mb,,,,1.11,us,usp0009mxd,2014-11-07T01:09:25.024Z,"22 km S of Praya, Indonesia",earthquake,,,,14,reviewed,us,us
+2000-01-26T01:40:49.050Z,-7.851,116.188,252.5,4.3,mb,,,,1.11,us,usp0009mp1,2014-11-07T01:09:21.995Z,"57 km NNE of Gili Air, Indonesia",earthquake,,7.2,,13,reviewed,us,us
+2000-01-06T04:31:58.350Z,-8.293,116.071,33,5.4,mwc,,,,1.26,us,usp0009ktf,2025-12-19T22:34:21.991Z,"7 km N of Gili Air, Indonesia",earthquake,,,,,reviewed,us,hrv
